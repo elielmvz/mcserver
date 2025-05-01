@@ -1,0 +1,61 @@
+[02:12:12] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[02:12:14] [ServerMain/INFO]: Loaded 7 recipes
+[02:12:14] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[02:12:14] [Server thread/INFO]: Loading properties
+[02:12:14] [Server thread/INFO]: This server is running Paper version git-Paper-196 (MC: 1.20.1) (Implementing API version 1.20.1-R0.1-SNAPSHOT) (Git: 773dd72)
+[02:12:15] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[02:12:15] [Server thread/INFO]: Using 4 threads for Netty based IO
+[02:12:15] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+    We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
+    For more information please visit: https://github.com/PaperMC/Paper/issues/8948
+[02:12:15] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
+[02:12:15] [Server thread/INFO]: Default game type: SURVIVAL
+[02:12:15] [Server thread/INFO]: Generating keypair
+[02:12:15] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:12:15] [Server thread/INFO]: Using epoll channel type
+[02:12:15] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[02:12:15] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[02:12:15] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.6.2
+[02:12:15] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[02:12:15] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.6.2
+[02:12:16] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
+[02:12:16] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.20.1.
+[02:12:16] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[02:12:16] [Server thread/WARN]: [SkinsRestorer] Please update your Java runtime to at least Java 21 (your version is 17).
+[02:12:16] [Server thread/WARN]: [SkinsRestorer] At some point in the future, SkinsRestorer will no longer be compatible with this version of Java.
+[02:12:16] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:12:16] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[02:12:16] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:12:16] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:12:16] [Server thread/INFO]: Preparing level "world"
+[02:12:17] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[02:12:17] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[02:12:17] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[02:12:17] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[02:12:17] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[02:12:17] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[02:12:17] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[02:12:17] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.6.2
+[02:12:17] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 7bda5de
+[02:12:17] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[02:12:17] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[02:12:17] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[02:12:17] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[02:12:17] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:12:17] [Server thread/INFO]: Time elapsed: 334 ms
+[02:12:17] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[02:12:17] [Server thread/INFO]: Time elapsed: 66 ms
+[02:12:17] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[02:12:18] [Server thread/INFO]: Time elapsed: 79 ms
+[02:12:18] [Server thread/INFO]: Running delayed init tasks
+[02:12:18] [Server thread/INFO]: Done (3.600s)! For help, type "help"
+[02:12:18] [Server thread/INFO]: Timings Reset
+[02:12:43] [User Authenticator #0/INFO]: UUID of player RIKROSEL is 73ade1ff-0091-381f-8e39-425e10d0f8aa
+[02:12:43] [Server thread/INFO]: RIKROSEL joined the game
+[02:12:43] [Server thread/INFO]: RIKROSEL[/127.184.108.47:41295] logged in with entity id 299 at ([world]-60.5, 64.0, 91.5)
+[02:14:36] [Server thread/INFO]: RIKROSEL issued server command: /skins
+[02:15:10] [Server thread/INFO]: Made RIKROSEL a server operator
+[02:15:21] [Server thread/INFO]: RIKROSEL issued server command: /gamemode creative
+[02:15:21] [Server thread/INFO]: [RIKROSEL: Set own game mode to Creative Mode]
+[02:20:22] [Server thread/INFO]: RIKROSEL lost connection: Disconnected
+[02:20:22] [Server thread/INFO]: RIKROSEL left the game
