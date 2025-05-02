@@ -852,3 +852,10 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [02May2025 20:59:27.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIKROSEL joined the game
 [02May2025 21:00:41.429] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL lost connection: Disconnected
 [02May2025 21:00:41.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIKROSEL left the game
+[02May2025 21:08:21.574] [ForkJoinPool.commonPool-worker-9/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[02May2025 21:08:21.588] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RIKROSEL[/127.59.253.219:57653] logged in with entity id 11918 at (-1607.0000490410473, 64.0, -2826.158183563784)
+[02May2025 21:08:21.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIKROSEL joined the game
+[02May2025 21:08:50.478] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Wouter}[style={}] has been infected
+[02May2025 21:08:56.476] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Wouter'/1793, l='ServerLevel[world]', x=-1519.50, y=61.00, z=-2813.31] died, message: 'Wouter was slain by Zombie'
+[02May2025 21:10:53.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: The difficulty has been set to Peaceful]
+[02May2025 21:11:02.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: The difficulty has been set to Easy]
