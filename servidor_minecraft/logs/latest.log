@@ -878,3 +878,26 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [02May2025 06:18:31.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Set own game mode to Creative Mode]
 [02May2025 06:18:52.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Set own game mode to Survival Mode]
 [02May2025 06:19:14.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Set own game mode to Creative Mode]
+[02May2025 06:22:00.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Set own game mode to Survival Mode]
+[02May2025 06:22:14.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Set own game mode to Creative Mode]
+[02May2025 06:22:26.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Set own game mode to Survival Mode]
+[02May2025 06:22:29.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Set own game mode to Creative Mode]
+[02May2025 06:23:48.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Set own game mode to Survival Mode]
+[02May2025 06:23:59.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIKROSEL has made the advancement [Flexible Schedule]
+[02May2025 06:26:24.058] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL lost connection: Disconnected
+[02May2025 06:26:24.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIKROSEL left the game
+[02May2025 06:27:34.346] [ForkJoinPool.commonPool-worker-14/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[02May2025 06:27:34.366] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RIKROSEL[/127.59.253.219:34395] logged in with entity id 13820 at (3166.300000011921, 66.0, -677.6999999880791)
+[02May2025 06:27:34.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIKROSEL joined the game
+[02May2025 06:27:56.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Set own game mode to Creative Mode]
+[02May2025 06:29:18.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Set own game mode to Survival Mode]
+[02May2025 06:29:34.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elielmvz has made the advancement [KEEP ROLLIN' ROLLIN' ROLLIN']
+[02May2025 06:29:44.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIKROSEL has made the advancement [KEEP ROLLIN' ROLLIN' ROLLIN']
+[02May2025 06:29:48.542] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elielmvz moved wrongly!
+[02May2025 06:29:53.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elielmvz has made the advancement [Monster Hunter]
+[02May2025 06:29:54.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elielmvz has made the advancement [Rocks Off!]
+[02May2025 06:30:40.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Set own game mode to Creative Mode]
+[02May2025 06:30:56.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Teleported RIKROSEL to Elielmvz]
+[02May2025 06:31:06.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Teleported RIKROSEL to Elielmvz]
+[02May2025 06:31:20.307] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL lost connection: Disconnected
+[02May2025 06:31:20.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIKROSEL left the game

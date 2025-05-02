@@ -73,6 +73,12 @@
     },
     "done": true
   },
+  "overweight_farming:recipes/overweight_golden_apple_block": {
+    "criteria": {
+      "has_overweight_apple_block": "2025-05-02 06:18:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2025-05-02 06:04:04 +0000"
@@ -88,6 +94,12 @@
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2025-05-02 06:09:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-05-02 06:18:57 +0000"
     },
     "done": true
   },
@@ -109,6 +121,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-05-02 06:22:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2025-05-02 06:08:59 +0000"
@@ -121,6 +139,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "enchanted_golden_apple": "2025-05-02 06:18:57 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2025-05-02 06:14:01 +0000"
@@ -130,6 +154,12 @@
   "minecraft:recipes/decorations/red_bed": {
     "criteria": {
       "has_red_wool": "2025-05-02 06:04:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-05-02 06:18:37 +0000"
     },
     "done": true
   },
