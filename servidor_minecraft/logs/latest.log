@@ -869,3 +869,9 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [02May2025 21:32:40.998] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers clothing  does not exist!
 [02May2025 21:32:40.998] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers hair  does not exist!
 [02May2025 21:33:10.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: The difficulty has been set to Peaceful]
+[02May2025 21:39:29.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIKROSEL has made the advancement [Friendship Found]
+[02May2025 21:39:41.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elielmvz has made the advancement [Friendship Found]
+[02May2025 21:40:46.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elielmvz has made the advancement [They Grow Up So Fast]
+[02May2025 21:40:46.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIKROSEL has made the advancement [They Grow Up So Fast]
+[02May2025 21:44:10.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elielmvz has made the advancement [Sneak 100]
+[02May2025 21:44:14.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIKROSEL has made the advancement [Sneak 100]
