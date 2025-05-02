@@ -901,3 +901,9 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [02May2025 06:31:06.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Teleported RIKROSEL to Elielmvz]
 [02May2025 06:31:20.307] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL lost connection: Disconnected
 [02May2025 06:31:20.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIKROSEL left the game
+[02May2025 06:40:28.323] [ForkJoinPool.commonPool-worker-16/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[02May2025 06:40:28.359] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RIKROSEL[/127.59.253.219:36385] logged in with entity id 15899 at (2958.4052591026825, 67.0, -702.1421402135464)
+[02May2025 06:40:28.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIKROSEL joined the game
+[02May2025 06:40:48.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Set the weather to clear]
+[02May2025 06:40:53.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Teleported RIKROSEL to Elielmvz]
+[02May2025 06:41:49.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Set own game mode to Survival Mode]
