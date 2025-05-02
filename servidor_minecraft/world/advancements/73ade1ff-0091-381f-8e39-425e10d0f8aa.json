@@ -374,6 +374,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-05-02 23:05:02 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/orange_crimson_crib": {
     "criteria": {
       "has_crimson_planks": "2025-05-02 22:49:11 +0000"
@@ -635,6 +641,12 @@
   "minecraft:recipes/building_blocks/purple_stained_glass": {
     "criteria": {
       "has_glass": "2025-05-02 21:31:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2025-05-02 22:57:37 +0000"
     },
     "done": true
   },
