@@ -79,6 +79,24 @@
     },
     "done": true
   },
+  "mca:marriage": {
+    "criteria": {
+      "iron": "2025-05-02 06:15:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-05-02 06:09:00 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/murmur": {
+    "criteria": {
+      "killed_by": "2025-05-02 06:08:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_carpet": {
     "criteria": {
       "has_red_wool": "2025-05-02 06:04:04 +0000"
@@ -91,9 +109,21 @@
     },
     "done": true
   },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-05-02 06:08:59 +0000"
+    },
+    "done": true
+  },
   "mca:root": {
     "criteria": {
       "village_snowy": "2025-05-02 05:41:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-05-02 06:14:01 +0000"
     },
     "done": true
   },

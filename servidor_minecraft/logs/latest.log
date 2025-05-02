@@ -868,3 +868,13 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [02May2025 06:11:31.118] [ForkJoinPool.commonPool-worker-12/WARN] [SkinRestorer/]: Failed to fetch skin: not found
 [02May2025 06:11:31.160] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RIKROSEL[/127.59.253.219:54845] logged in with entity id 10262 at (3094.4532734124027, 71.0, -647.985025813624)
 [02May2025 06:11:31.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIKROSEL joined the game
+[02May2025 06:12:00.647] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL moved too quickly! 10.25708607688648,0.010077332883284384,-1.017742582585356
+[02May2025 06:13:45.320] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL moved too quickly! -0.4336864233528104,1.4199999868869781,-10.056228367334938
+[02May2025 06:15:11.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elielmvz has made the advancement ['Til Death Do Us Part]
+[02May2025 06:15:11.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIKROSEL has made the advancement ['Til Death Do Us Part]
+[02May2025 06:15:56.114] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL moved too quickly! 1.8828804650447637,0.009363906805148758,9.902243594967786
+[02May2025 06:16:48.311] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL moved too quickly! -6.4516651841813655,2.0013359791121417,-7.490474170990183
+[02May2025 06:18:19.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Set own game mode to Survival Mode]
+[02May2025 06:18:31.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Set own game mode to Creative Mode]
+[02May2025 06:18:52.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Set own game mode to Survival Mode]
+[02May2025 06:19:14.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Set own game mode to Creative Mode]
