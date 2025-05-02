@@ -812,3 +812,11 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [02May2025 20:10:04.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Set RIKROSEL's game mode to Creative Mode]
 [02May2025 20:10:27.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elielmvz has made the advancement [Minecraft Comes Alive]
 [02May2025 20:11:57.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elielmvz has made the advancement [Monster Hunter]
+[02May2025 20:16:51.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elielmvz has made the advancement ['Til Death Do Us Part]
+[02May2025 20:16:51.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIKROSEL has made the advancement ['Til Death Do Us Part]
+[02May2025 20:20:00.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Teleported Elielmvz to RIKROSEL]
+[02May2025 20:20:11.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Set own game mode to Survival Mode]
+[02May2025 20:21:14.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Teleported Elielmvz to RIKROSEL]
+[02May2025 20:21:18.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Set own game mode to Creative Mode]
+[02May2025 20:22:51.288] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL moved too quickly! -5.4473876516276505,0.0,-8.543536033223063
+[02May2025 20:23:03.340] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL moved too quickly! 10.058474176572645,0.0,-3.9475900462703066

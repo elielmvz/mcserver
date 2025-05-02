@@ -1,15 +1,41 @@
 {
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-05-02 20:14:05 +0000"
+    },
+    "done": true
+  },
+  "mca:marriage": {
+    "criteria": {
+      "iron": "2025-05-02 20:16:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "unlock_right_away": "2025-05-02 20:04:06 +0000"
     },
     "done": true
   },
+  "mca:root": {
+    "criteria": {
+      "village_snowy": "2025-05-02 20:09:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:bamboo_jungle": "2025-05-02 20:04:06 +0000"
+      "minecraft:frozen_river": "2025-05-02 20:10:14 +0000",
+      "minecraft:bamboo_jungle": "2025-05-02 20:04:06 +0000",
+      "minecraft:snowy_plains": "2025-05-02 20:09:34 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-05-02 20:14:05 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
