@@ -698,6 +698,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-05-02 23:21:13 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/light_blue_crimson_crib": {
     "criteria": {
       "has_crimson_planks": "2025-05-02 22:49:11 +0000"
@@ -707,6 +713,12 @@
   "mca:recipes/decorations/gray_crimson_crib": {
     "criteria": {
       "has_crimson_planks": "2025-05-02 22:49:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-05-02 23:21:13 +0000"
     },
     "done": true
   },
@@ -725,6 +737,12 @@
   "mca:recipes/decorations/yellow_crimson_crib": {
     "criteria": {
       "has_crimson_planks": "2025-05-02 22:49:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-05-02 23:21:13 +0000"
     },
     "done": true
   },
