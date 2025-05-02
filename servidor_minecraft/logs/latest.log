@@ -862,3 +862,10 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [02May2025 21:15:10.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Set the time to 13000]
 [02May2025 21:16:02.970] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from Elielmvz: Location (-1605.875, 64.94369494915009, -2836.0971959233284) too far away from hit block BlockPos{x=-1605, y=64, z=-2837}.
 [02May2025 21:17:26.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Set the time to 1000]
+[02May2025 21:25:15.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Set the time to 13000]
+[02May2025 21:29:22.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elielmvz has made the advancement [Diamonds!]
+[02May2025 21:32:01.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elielmvz has made the advancement [Bring Home the Beacon]
+[02May2025 21:32:01.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIKROSEL has made the advancement [Bring Home the Beacon]
+[02May2025 21:32:40.998] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers clothing  does not exist!
+[02May2025 21:32:40.998] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers hair  does not exist!
+[02May2025 21:33:10.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: The difficulty has been set to Peaceful]
