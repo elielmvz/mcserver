@@ -907,3 +907,15 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [02May2025 06:40:48.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Set the weather to clear]
 [02May2025 06:40:53.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Teleported RIKROSEL to Elielmvz]
 [02May2025 06:41:49.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Set own game mode to Survival Mode]
+[02May2025 06:42:16.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elielmvz was slain by Froststalker
+[02May2025 06:42:24.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Teleported Elielmvz to RIKROSEL]
+[02May2025 06:42:37.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elielmvz has reached the goal [Ice Scream]
+[02May2025 06:43:41.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elielmvz was killed
+[02May2025 06:43:41.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RIKROSEL: Killed Elielmvz]
+[02May2025 06:43:44.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Teleported Elielmvz to RIKROSEL]
+[02May2025 06:44:05.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Set own game mode to Creative Mode]
+[02May2025 06:44:18.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Set own game mode to Survival Mode]
+[02May2025 06:45:32.133] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL moved too quickly! -3.3529868444993554,1.2538907259487644,-9.38554374141313
+[02May2025 06:48:12.184] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL moved too quickly! -8.349496490096953,-5.464159374955443,-1.505243557967333
+[02May2025 06:50:08.821] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL moved too quickly! -0.7658946397532418,-2.0,-9.93172189242398
+[02May2025 06:51:10.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Set own game mode to Creative Mode]
