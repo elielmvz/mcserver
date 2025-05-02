@@ -8,10 +8,16 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:frozen_river": "2025-05-02 05:44:11 +0000",
+      "minecraft:birch_forest": "2025-05-02 06:57:38 +0000",
+      "minecraft:dark_forest": "2025-05-02 06:57:13 +0000",
+      "minecraft:river": "2025-05-02 06:55:12 +0000",
       "minecraft:snowy_plains": "2025-05-02 05:41:15 +0000",
       "minecraft:snowy_taiga": "2025-05-02 05:45:08 +0000",
       "minecraft:swamp": "2025-05-02 05:56:04 +0000",
+      "minecraft:lush_caves": "2025-05-02 06:56:26 +0000",
       "minecraft:ice_spikes": "2025-05-02 05:53:55 +0000",
+      "minecraft:deep_dark": "2025-05-02 06:58:01 +0000",
+      "minecraft:meadow": "2025-05-02 06:56:14 +0000",
       "minecraft:windswept_gravelly_hills": "2025-05-02 06:30:57 +0000",
       "minecraft:plains": "2025-05-02 05:32:22 +0000"
     },
@@ -176,6 +182,12 @@
   "alexsmobs:alexsmobs/rocky_roller": {
     "criteria": {
       "killed_by": "2025-05-02 06:29:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-05-02 07:00:03 +0000"
     },
     "done": true
   },
