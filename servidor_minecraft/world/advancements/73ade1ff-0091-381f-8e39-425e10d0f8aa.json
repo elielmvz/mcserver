@@ -1,25 +1,22 @@
 {
-  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+  "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
-      "has_planks": "2025-05-02 20:32:14 +0000"
+      "unlock_right_away": "2025-05-02 20:04:06 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+  "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "has_planks": "2025-05-02 20:32:14 +0000"
+      "minecraft:frozen_river": "2025-05-02 20:10:14 +0000",
+      "minecraft:bamboo_jungle": "2025-05-02 20:04:06 +0000",
+      "minecraft:snowy_plains": "2025-05-02 20:09:34 +0000",
+      "minecraft:ice_spikes": "2025-05-02 20:22:53 +0000"
     },
-    "done": true
+    "done": false
   },
-  "mca:recipes/decorations/orange_dark_oak_crib": {
+  "mca:root": {
     "criteria": {
-      "has_dark_oak_planks": "2025-05-02 20:32:14 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/decorations/cyan_dark_oak_crib": {
-    "criteria": {
-      "has_dark_oak_planks": "2025-05-02 20:32:14 +0000"
+      "village_snowy": "2025-05-02 20:09:34 +0000"
     },
     "done": true
   },
@@ -29,45 +26,15 @@
     },
     "done": true
   },
-  "mca:recipes/decorations/gray_dark_oak_crib": {
+  "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
-      "has_dark_oak_planks": "2025-05-02 20:32:14 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/decorations/magenta_dark_oak_crib": {
-    "criteria": {
-      "has_dark_oak_planks": "2025-05-02 20:32:14 +0000"
+      "has_snowball": "2025-05-02 20:14:05 +0000"
     },
     "done": true
   },
   "mca:marriage": {
     "criteria": {
       "iron": "2025-05-02 20:16:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/crafting_table": {
-    "criteria": {
-      "unlock_right_away": "2025-05-02 20:04:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/shiny_gear": {
-    "criteria": {
-      "diamond_chestplate": "2025-05-02 20:27:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dark_oak_button": {
-    "criteria": {
-      "has_planks": "2025-05-02 20:32:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/stick": {
-    "criteria": {
-      "has_planks": "2025-05-02 20:32:14 +0000"
     },
     "done": true
   },
@@ -95,15 +62,93 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2025-05-02 20:23:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2025-05-02 20:23:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2025-05-02 20:23:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2025-05-02 20:23:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2025-05-02 20:23:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-05-02 20:27:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-05-02 20:32:14 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/oak_boat": {
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
     "criteria": {
-      "in_water": "2025-05-02 20:23:10 +0000"
+      "has_planks": "2025-05-02 20:32:14 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/orange_dark_oak_crib": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-05-02 20:32:14 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/cyan_dark_oak_crib": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-05-02 20:32:14 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/gray_dark_oak_crib": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-05-02 20:32:14 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/magenta_dark_oak_crib": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-05-02 20:32:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2025-05-02 20:32:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2025-05-02 20:32:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-02 20:32:14 +0000"
     },
     "done": true
   },
@@ -134,12 +179,6 @@
   "minecraft:recipes/building_blocks/dark_oak_slab": {
     "criteria": {
       "has_planks": "2025-05-02 20:32:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/mangrove_boat": {
-    "criteria": {
-      "in_water": "2025-05-02 20:23:10 +0000"
     },
     "done": true
   },
@@ -179,32 +218,11 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/acacia_boat": {
-    "criteria": {
-      "in_water": "2025-05-02 20:23:10 +0000"
-    },
-    "done": true
-  },
-  "mca:root": {
-    "criteria": {
-      "village_snowy": "2025-05-02 20:09:34 +0000"
-    },
-    "done": true
-  },
   "mca:recipes/decorations/black_dark_oak_crib": {
     "criteria": {
       "has_dark_oak_planks": "2025-05-02 20:32:14 +0000"
     },
     "done": true
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:frozen_river": "2025-05-02 20:10:14 +0000",
-      "minecraft:bamboo_jungle": "2025-05-02 20:04:06 +0000",
-      "minecraft:snowy_plains": "2025-05-02 20:09:34 +0000",
-      "minecraft:ice_spikes": "2025-05-02 20:22:53 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
@@ -242,21 +260,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/snow_block": {
+  "alexsmobs:alexsmobs/root": {
     "criteria": {
-      "has_snowball": "2025-05-02 20:14:05 +0000"
+      "useitem": "2025-05-02 20:39:36 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/jungle_boat": {
+  "minecraft:husbandry/root": {
     "criteria": {
-      "in_water": "2025-05-02 20:23:10 +0000"
+      "consumed_item": "2025-05-02 20:39:36 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/dark_oak_boat": {
+  "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
-      "in_water": "2025-05-02 20:23:10 +0000"
+      "has_logs": "2025-05-02 20:45:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2025-05-02 20:45:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-05-02 20:47:34 +0000"
     },
     "done": true
   },
