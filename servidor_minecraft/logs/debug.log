@@ -2647,3 +2647,10 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [02May2025 21:48:58.548] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [02May2025 21:53:58.543] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [02May2025 21:53:58.551] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02May2025 21:55:13.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIKROSEL has made the advancement [Who is Cutting Onions?]
+[02May2025 21:58:54.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RIKROSEL: Set the time to 13000]
+[02May2025 21:58:58.539] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02May2025 21:58:58.547] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02May2025 22:02:34.845] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL moved too quickly! -9.096039401690405,3.065906753745068,3.0889601211074478
+[02May2025 22:03:58.543] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02May2025 22:03:58.551] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
