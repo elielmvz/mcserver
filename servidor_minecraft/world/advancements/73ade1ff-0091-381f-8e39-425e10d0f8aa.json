@@ -17,6 +17,54 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-05-02 20:27:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2025-05-02 20:23:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2025-05-02 20:23:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2025-05-02 20:23:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2025-05-02 20:23:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2025-05-02 20:23:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2025-05-02 20:23:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2025-05-02 20:23:10 +0000"
+    },
+    "done": true
+  },
   "mca:root": {
     "criteria": {
       "village_snowy": "2025-05-02 20:09:34 +0000"
@@ -27,13 +75,26 @@
     "criteria": {
       "minecraft:frozen_river": "2025-05-02 20:10:14 +0000",
       "minecraft:bamboo_jungle": "2025-05-02 20:04:06 +0000",
-      "minecraft:snowy_plains": "2025-05-02 20:09:34 +0000"
+      "minecraft:snowy_plains": "2025-05-02 20:09:34 +0000",
+      "minecraft:ice_spikes": "2025-05-02 20:22:53 +0000"
     },
     "done": false
   },
   "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
       "has_snowball": "2025-05-02 20:14:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2025-05-02 20:23:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2025-05-02 20:23:10 +0000"
     },
     "done": true
   },

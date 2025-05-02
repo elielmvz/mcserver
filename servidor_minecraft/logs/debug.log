@@ -2224,3 +2224,17 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [02May2025 20:21:18.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Set own game mode to Creative Mode]
 [02May2025 20:22:51.288] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL moved too quickly! -5.4473876516276505,0.0,-8.543536033223063
 [02May2025 20:23:03.340] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL moved too quickly! 10.058474176572645,0.0,-3.9475900462703066
+[02May2025 20:23:58.557] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02May2025 20:23:58.566] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02May2025 20:27:28.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIKROSEL has made the advancement [Cover Me with Diamonds]
+[02May2025 20:28:15.505] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL moved too quickly! 6.122351160820017,2.4078672128147787,-8.047794822287415
+[02May2025 20:28:27.570] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL moved too quickly! 1.261836010537536,-1.3942464554023672,10.096384416221099
+[02May2025 20:28:55.790] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL moved too quickly! 3.247510077619836,-1.669955472917053,-9.489092373294625
+[02May2025 20:28:58.561] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02May2025 20:28:58.569] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02May2025 20:29:40.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elielmvz has made the advancement [Acquire Hardware]
+[02May2025 20:30:17.332] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL moved too quickly! 0.9099351493969152,3.497953103062528,9.853237019072367
+[02May2025 20:30:29.385] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL moved too quickly! 6.315911882909177,0.0,8.470678327373662
+[02May2025 20:32:51.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Teleported Elielmvz to RIKROSEL]
+[02May2025 20:33:32.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elielmvz> BABYY
+[02May2025 20:33:36.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Teleported Elielmvz to RIKROSEL]
