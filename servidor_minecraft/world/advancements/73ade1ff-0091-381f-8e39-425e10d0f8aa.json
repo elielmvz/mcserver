@@ -302,6 +302,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_nether_brick_wall": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-05-02 23:36:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_quartz_slab_from_smooth_quartz_stonecutting": {
     "criteria": {
       "has_smooth_quartz": "2025-05-02 22:50:38 +0000"
@@ -428,6 +434,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-05-02 23:36:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/orange_dye_from_torchflower": {
     "criteria": {
       "has_torchflower": "2025-05-02 22:04:51 +0000"
@@ -536,6 +548,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-05-02 23:36:24 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/white_crimson_crib": {
     "criteria": {
       "has_crimson_planks": "2025-05-02 22:49:11 +0000"
@@ -557,6 +575,12 @@
   "mca:recipes/decorations/lime_crimson_crib": {
     "criteria": {
       "has_crimson_planks": "2025-05-02 22:49:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-05-02 23:36:24 +0000"
     },
     "done": true
   },
@@ -587,6 +611,12 @@
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2025-05-02 21:31:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-05-02 23:36:24 +0000"
     },
     "done": true
   },
@@ -713,6 +743,12 @@
   "mca:recipes/decorations/gray_crimson_crib": {
     "criteria": {
       "has_crimson_planks": "2025-05-02 22:49:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-05-02 23:36:24 +0000"
     },
     "done": true
   },
