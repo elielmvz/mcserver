@@ -883,3 +883,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [02May2025 22:32:35.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RIKROSEL: Set the time to 13000]
 [02May2025 22:41:46.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Set the time to 13000]
 [02May2025 22:54:52.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RIKROSEL: Set the time to 13000]
+[02May2025 23:25:48.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RIKROSEL: Set the time to 13000]
+[02May2025 23:30:59.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elielmvz> heyy
+[02May2025 23:31:14.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Set spawn point to -1618, 63, -2835 [0.0] in minecraft:overworld for Elielmvz]
+[02May2025 23:31:18.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Teleported Elielmvz to RIKROSEL]
