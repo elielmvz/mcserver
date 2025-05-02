@@ -833,3 +833,19 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [02May2025 05:49:54.273] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RIKROSEL[/127.59.253.219:46325] logged in with entity id 3285 at (3715.6684536604585, 65.37429331309657, -516.5249307871944)
 [02May2025 05:49:54.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIKROSEL joined the game
 [02May2025 05:50:12.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Teleported Elielmvz to RIKROSEL]
+[02May2025 05:53:01.462] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL moved too quickly! 6.5985003974246865,0.0,-7.850857662608348
+[02May2025 05:53:15.517] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL moved too quickly! 9.38735550430647,3.5081702973304942,-0.5712066513458467
+[02May2025 05:53:52.749] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL moved too quickly! -0.5294948919304261,2.970119983872962,-9.624634956571299
+[02May2025 05:54:16.237] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL moved too quickly! 9.586500280130167,-3.3750001283670343,1.9745764324093784
+[02May2025 05:54:52.516] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:swamp took 18 ms
+[02May2025 05:55:10.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Teleported Elielmvz to 3444.500000, 66.000000, -544.500000]
+[02May2025 05:55:58.714] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL moved too quickly! 9.875512482906743,0.0,-1.9267576308366188
+[02May2025 05:56:03.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RIKROSEL: Teleported RIKROSEL to Elielmvz]
+[02May2025 05:56:12.029] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL moved too quickly! -8.438425957916479,-1.3047980181288494,5.274375514828989
+[02May2025 05:56:51.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Set the time to 1000]
+[02May2025 05:57:26.159] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL moved too quickly! 1.1039189688203805,2.5813359922251635,9.91704766612429
+[02May2025 05:57:53.329] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL moved too quickly! -2.3888285997804815,-0.6520467879305869,-9.902662792823776
+[02May2025 05:58:22.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Teleported RIKROSEL to Elielmvz]
+[02May2025 05:59:33.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Teleported Elielmvz to RIKROSEL]
+[02May2025 05:59:51.910] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL moved too quickly! 7.165556893829944,-2.0,7.003681507627675
+[02May2025 06:00:56.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Teleported Elielmvz to RIKROSEL]
