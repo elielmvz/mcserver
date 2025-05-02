@@ -14,6 +14,7 @@
       "minecraft:swamp": "2025-05-02 05:55:11 +0000",
       "minecraft:deep_dark": "2025-05-01 04:01:03 +0000",
       "minecraft:meadow": "2025-05-01 04:00:56 +0000",
+      "minecraft:windswept_gravelly_hills": "2025-05-02 06:06:39 +0000",
       "minecraft:plains": "2025-05-01 03:51:00 +0000"
     },
     "done": false
@@ -72,9 +73,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-05-02 06:04:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_carpet": {
+    "criteria": {
+      "has_red_wool": "2025-05-02 06:04:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_banner": {
+    "criteria": {
+      "has_red_wool": "2025-05-02 06:04:04 +0000"
+    },
+    "done": true
+  },
   "mca:root": {
     "criteria": {
       "village_snowy": "2025-05-02 05:41:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_bed": {
+    "criteria": {
+      "has_red_wool": "2025-05-02 06:04:04 +0000"
     },
     "done": true
   },
