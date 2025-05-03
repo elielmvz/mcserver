@@ -7608,3 +7608,13 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:color_essence'
 [03May2025 19:09:56.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIKROSEL has made the advancement [Minecraft Comes Alive]
 [03May2025 19:10:11.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Teleported Elielmvz to RIKROSEL]
 [03May2025 19:10:12.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elielmvz has made the advancement [Minecraft Comes Alive]
+[03May2025 19:11:41.396] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03May2025 19:11:41.406] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03May2025 19:11:53.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Set RIKROSEL's game mode to Creative Mode]
+[03May2025 19:12:22.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Set RIKROSEL's game mode to Survival Mode]
+[03May2025 19:13:06.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIKROSEL was slain by Tusklin
+[03May2025 19:15:26.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIKROSEL was slain by Tusklin
+[03May2025 19:16:06.608] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL lost connection: Disconnected
+[03May2025 19:16:06.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIKROSEL left the game
+[03May2025 19:16:41.383] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03May2025 19:16:41.393] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

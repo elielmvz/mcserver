@@ -1307,6 +1307,12 @@
     },
     "done": true
   },
+  "the_bumblezone:teleportation/is_near_beehive": {
+    "criteria": {
+      "is_near_beehive": "2025-05-03 19:16:31 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/ritual_disintegration": {
     "criteria": {
       "has_journal": "2025-05-03 18:41:55 +0000"
@@ -1487,6 +1493,12 @@
     },
     "done": true
   },
+  "mca:root": {
+    "criteria": {
+      "village_snowy": "2025-05-03 19:10:12 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/sourcestone_basketweave_slab": {
     "criteria": {
       "has_journal": "2025-05-03 18:41:55 +0000"
@@ -1567,7 +1579,9 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:frozen_river": "2025-05-03 19:16:11 +0000",
       "minecraft:beach": "2025-05-03 18:54:16 +0000",
+      "minecraft:snowy_plains": "2025-05-03 19:10:12 +0000",
       "minecraft:jungle": "2025-05-03 18:41:56 +0000"
     },
     "done": false
