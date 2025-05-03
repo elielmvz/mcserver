@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/dog_food": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-03 19:41:56 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/ritual_flight": {
     "criteria": {
       "has_journal": "2025-05-03 18:41:55 +0000"
@@ -377,6 +383,12 @@
     },
     "done": true
   },
+  "celestisynth:obtain_solaris": {
+    "criteria": {
+      "criteria": "2025-05-03 19:36:52 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/smooth_gilded_sourcestone_basketweave_stone_cutterslab": {
     "criteria": {
       "has_journal": "2025-05-03 18:41:55 +0000"
@@ -392,6 +404,12 @@
   "ars_nouveau:recipes/misc/void_prism": {
     "criteria": {
       "has_journal": "2025-05-03 18:41:55 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:obtain_rainfall_serenity": {
+    "criteria": {
+      "criteria": "2025-05-03 19:37:24 +0000"
     },
     "done": true
   },
@@ -446,6 +464,12 @@
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "unlock_right_away": "2025-05-03 18:41:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-05-03 19:38:11 +0000"
     },
     "done": true
   },
@@ -604,6 +628,12 @@
       "has_journal": "2025-05-03 18:41:55 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:zombie": "2025-05-03 19:41:56 +0000"
+    },
+    "done": false
   },
   "ars_nouveau:recipes/misc/water_essence_to_obsidian": {
     "criteria": {
@@ -812,6 +842,12 @@
   "ars_nouveau:recipes/misc/spell_prism": {
     "criteria": {
       "has_journal": "2025-05-03 18:41:55 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:obtain_keres": {
+    "criteria": {
+      "criteria": "2025-05-03 19:37:45 +0000"
     },
     "done": true
   },
@@ -1037,6 +1073,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-05-03 19:40:55 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/smooth_sourcestone_alternating_slab": {
     "criteria": {
       "has_journal": "2025-05-03 18:41:55 +0000"
@@ -1088,6 +1130,12 @@
   "ars_nouveau:recipes/misc/smooth_sourcestone_small_bricks_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-05-03 18:41:55 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/banana": {
+    "criteria": {
+      "banana": "2025-05-03 19:40:51 +0000"
     },
     "done": true
   },
@@ -1145,6 +1193,12 @@
     },
     "done": true
   },
+  "overweight_farming:recipes/apply_violent_fullmetal_directly_to_compost": {
+    "criteria": {
+      "has_rotten_flesh": "2025-05-03 19:41:56 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/ritual_cloudshaping": {
     "criteria": {
       "has_journal": "2025-05-03 18:41:55 +0000"
@@ -1160,6 +1214,12 @@
   "ars_nouveau:recipes/building_blocks/smooth_sourcestone_small_bricks_stonecutter_stair": {
     "criteria": {
       "has_journal": "2025-05-03 18:41:55 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/tame_capuchin": {
+    "criteria": {
+      "tame": "2025-05-03 19:40:55 +0000"
     },
     "done": true
   },
@@ -1451,6 +1511,12 @@
     },
     "done": true
   },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2025-05-03 19:45:27 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/sourcestone_basketweave_stonecutter_stair": {
     "criteria": {
       "has_journal": "2025-05-03 18:41:55 +0000"
@@ -1535,6 +1601,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2025-05-03 19:41:56 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/sourcestone_basketweave_slab": {
     "criteria": {
       "has_journal": "2025-05-03 18:41:55 +0000"
@@ -1598,6 +1670,12 @@
   "ars_nouveau:recipes/misc/ritual_challenge": {
     "criteria": {
       "has_journal": "2025-05-03 18:41:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2025-05-03 19:41:56 +0000"
     },
     "done": true
   },

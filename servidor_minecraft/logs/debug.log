@@ -8724,3 +8724,16 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:color_essence'
 [03May2025 19:40:51.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elielmvz has made the advancement [Gone Bananas!]
 [03May2025 19:40:55.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elielmvz has made the advancement [Best Friends Forever]
 [03May2025 19:40:55.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elielmvz has made the advancement [Monkey Business]
+[03May2025 19:41:28.264] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL moved too quickly! 1.4256670057746987,2.176759275064242,9.81748054064883
+[03May2025 19:41:35.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Set the time to 13000]
+[03May2025 19:41:38.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Set own game mode to Survival Mode]
+[03May2025 19:41:41.380] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03May2025 19:41:41.389] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03May2025 19:41:56.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elielmvz has made the advancement [Monster Hunter]
+[03May2025 19:42:15.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Set own game mode to Creative Mode]
+[03May2025 19:45:04.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIKROSEL has reached the goal [Sky's the Limit]
+[03May2025 19:45:27.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elielmvz has reached the goal [Sky's the Limit]
+[03May2025 19:46:41.379] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03May2025 19:46:41.387] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03May2025 19:48:30.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIKROSEL has made the advancement [Diamonds!]
+[03May2025 19:48:37.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIKROSEL has made the advancement [Crafting a New Look]
