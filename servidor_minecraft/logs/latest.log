@@ -2209,3 +2209,41 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:color_essence'
 [03May2025 19:15:26.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIKROSEL was slain by Tusklin
 [03May2025 19:16:06.608] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL lost connection: Disconnected
 [03May2025 19:16:06.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIKROSEL left the game
+[03May2025 19:21:57.121] [ForkJoinPool.commonPool-worker-6/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[03May2025 19:21:57.188] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RIKROSEL[/127.59.253.219:47409] logged in with entity id 7590 at (713.6505084328916, 64.0, 3879.655094937605)
+[03May2025 19:21:57.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIKROSEL joined the game
+[03May2025 19:23:13.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Set RIKROSEL's game mode to Creative Mode]
+[03May2025 19:26:33.570] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL moved too quickly! -7.33804554389917,-2.127890238205481,-6.513503740033684
+[03May2025 19:27:54.054] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Zigurds'/5231, l='ServerLevel[world]', x=765.94, y=54.00, z=3857.07] died, message: 'Zigurds was slain by Zombie'
+[03May2025 19:28:21.602] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Ligija'/5230, l='ServerLevel[world]', x=729.54, y=112.00, z=3923.57] died, message: 'Ligija hit the ground too hard'
+[03May2025 19:29:43.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Set own game mode to Survival Mode]
+[03May2025 19:29:59.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RIKROSEL: Set own game mode to Survival Mode]
+[03May2025 19:31:07.205] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL was kicked for floating too long!
+[03May2025 19:31:07.205] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL lost connection: Disconnected
+[03May2025 19:31:07.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIKROSEL left the game
+[03May2025 19:31:07.281] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[03May2025 19:31:40.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Set own game mode to Creative Mode]
+[03May2025 19:31:47.111] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@e122bdc[id=<null>,name=RIKROSEL,properties={},legacy=false] (/127.59.253.219:57113) lost connection: Timed out
+[03May2025 19:31:50.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Set own game mode to Survival Mode]
+[03May2025 19:31:57.002] [ForkJoinPool.commonPool-worker-8/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[03May2025 19:31:57.024] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RIKROSEL[/127.59.253.219:36251] logged in with entity id 9193 at (758.9620709660641, 66.00133597911214, 3905.1313170320614)
+[03May2025 19:31:57.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIKROSEL joined the game
+[03May2025 19:35:07.812] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL moved too quickly! 5.931861302488642,0.1843000194787976,-8.296651402210955
+[03May2025 19:35:57.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RIKROSEL: Set own game mode to Creative Mode]
+[03May2025 19:36:09.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elielmvz was slain by RIKROSEL
+[03May2025 19:36:14.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIKROSEL has made the advancement [Monster Hunter]
+[03May2025 19:36:23.416] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Valērija'/5016, l='ServerLevel[world]', x=753.11, y=64.00, z=3888.55] died, message: 'Valērija was slain by RIKROSEL.'
+[03May2025 19:36:29.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Set own game mode to Creative Mode]
+[03May2025 19:36:32.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Teleported Elielmvz to RIKROSEL]
+[03May2025 19:36:55.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RIKROSEL: Set Elielmvz's game mode to Survival Mode]
+[03May2025 19:36:57.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elielmvz was slain by RIKROSEL.
+[03May2025 19:37:03.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Teleported Elielmvz to RIKROSEL]
+[03May2025 19:37:10.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Set own game mode to Creative Mode]
+[03May2025 19:37:44.003] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Inese'/5271, l='ServerLevel[world]', x=843.49, y=72.00, z=3890.64] died, message: 'Inese was slain by Zombie'
+[03May2025 19:37:46.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RIKROSEL: Set Elielmvz's game mode to Survival Mode]
+[03May2025 19:38:02.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elielmvz was shot by RIKROSEL
+[03May2025 19:38:06.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Teleported Elielmvz to RIKROSEL]
+[03May2025 19:39:47.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Set own game mode to Creative Mode]
+[03May2025 19:40:51.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elielmvz has made the advancement [Gone Bananas!]
+[03May2025 19:40:55.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elielmvz has made the advancement [Best Friends Forever]
+[03May2025 19:40:55.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elielmvz has made the advancement [Monkey Business]
