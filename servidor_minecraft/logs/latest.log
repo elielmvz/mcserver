@@ -2280,3 +2280,29 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:color_essence'
 [03May2025 20:08:10.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RIKROSEL: Teleported RIKROSEL to Elielmvz]
 [03May2025 20:08:35.404] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Arturs}[style={}] has been infected
 [03May2025 20:09:55.262] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL moved too quickly! 7.03472229502097,0.41999998688697815,7.233688696271656
+[03May2025 20:11:21.011] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Diana}[style={}] has been infected
+[03May2025 20:11:26.916] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL moved too quickly! 10.040903072164724,0.0,-1.9778625401172576
+[03May2025 20:11:28.103] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Diana}[style={}] has been infected
+[03May2025 20:11:29.052] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Diana'/4911, l='ServerLevel[world]', x=762.37, y=69.00, z=3977.87] died, message: 'Diana was slain by Zombie'
+[03May2025 20:13:06.514] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL moved too quickly! 8.869476827571248,0.5,4.913689509013693
+[03May2025 20:14:48.112] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL moved too quickly! -0.051712044045757466,-0.043535620147501675,-10.334732870484459
+[03May2025 20:15:14.273] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL moved too quickly! 6.669483931637956,4.523000360350416,-6.178035262520098
+[03May2025 20:18:11.554] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Romualds'/16207, l='ServerLevel[world]', x=772.70, y=8.00, z=3852.18] died, message: 'Romualds hit the ground too hard whilst trying to escape Skeleton'
+[03May2025 20:18:11.554] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Romualds'/16207, l='ServerLevel[world]', x=772.70, y=8.00, z=3852.18] died: Romualds was doomed to fall by Skeleton
+[03May2025 20:20:33.854] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL lost connection: Disconnected
+[03May2025 20:20:33.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIKROSEL left the game
+[03May2025 20:20:48.354] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elielmvz lost connection: Disconnected
+[03May2025 20:20:48.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elielmvz left the game
+[03May2025 20:21:13.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[03May2025 20:21:13.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[03May2025 20:21:13.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[03May2025 20:21:13.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[03May2025 20:21:15.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[03May2025 20:21:17.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[03May2025 20:21:17.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[03May2025 20:21:17.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_bumblezone:the_bumblezone
+[03May2025 20:21:18.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03May2025 20:21:18.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03May2025 20:21:18.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03May2025 20:21:18.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
+[03May2025 20:21:18.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
