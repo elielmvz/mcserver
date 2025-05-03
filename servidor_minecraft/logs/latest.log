@@ -2256,3 +2256,27 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:color_essence'
 [03May2025 19:45:27.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elielmvz has reached the goal [Sky's the Limit]
 [03May2025 19:48:30.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIKROSEL has made the advancement [Diamonds!]
 [03May2025 19:48:37.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIKROSEL has made the advancement [Crafting a New Look]
+[03May2025 19:53:11.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elielmvz has made the advancement [Diamonds!]
+[03May2025 19:53:24.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elielmvz has made the advancement [Crafting a New Look]
+[03May2025 19:58:38.759] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL moved too quickly! 6.02625339693418,2.0,7.849210693173063
+[03May2025 19:59:25.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Set own game mode to Survival Mode]
+[03May2025 19:59:49.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Set RIKROSEL's game mode to Survival Mode]
+[03May2025 19:59:57.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIKROSEL was pummeled by Capuchin Monkey
+[03May2025 20:00:11.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Teleported RIKROSEL to Elielmvz]
+[03May2025 20:00:15.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elielmvz was killed
+[03May2025 20:00:15.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RIKROSEL: Killed Elielmvz]
+[03May2025 20:00:24.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Teleported Elielmvz to RIKROSEL]
+[03May2025 20:00:37.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RIKROSEL: Set own game mode to Creative Mode]
+[03May2025 20:01:06.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Set own game mode to Creative Mode]
+[03May2025 20:02:13.858] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL moved too quickly! -0.34266221989344103,-6.993137005950203,-7.308172539955649
+[03May2025 20:03:06.224] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL moved too quickly! 2.697951515868226,0.0,9.741476431719093
+[03May2025 20:03:20.678] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL moved too quickly! -2.104650035877853,-8.59382114530466,4.774221438492987
+[03May2025 20:03:33.733] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL moved too quickly! 2.5152624137444946,-10.667067244575911,0.003338217898090079
+[03May2025 20:04:10.229] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL moved too quickly! 6.044956247295772,-4.4767672851447085,-7.879800140550742
+[03May2025 20:04:26.067] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL moved too quickly! -7.783537337880375,-0.3590813499803165,-6.4434807995717165
+[03May2025 20:05:43.162] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL moved too quickly! 8.85777996305103,-4.874979654683539,-0.04676762024837444
+[03May2025 20:05:47.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Teleported Elielmvz to RIKROSEL]
+[03May2025 20:07:15.626] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL moved too quickly! -6.481207437877288,4.348534043133375,6.580968715537892
+[03May2025 20:08:10.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RIKROSEL: Teleported RIKROSEL to Elielmvz]
+[03May2025 20:08:35.404] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Arturs}[style={}] has been infected
+[03May2025 20:09:55.262] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL moved too quickly! 7.03472229502097,0.41999998688697815,7.233688696271656
