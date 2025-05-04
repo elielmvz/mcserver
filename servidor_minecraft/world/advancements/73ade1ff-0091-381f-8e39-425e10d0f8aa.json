@@ -1717,8 +1717,12 @@
       "minecraft:snowy_slopes": "2025-05-04 03:54:24 +0000",
       "minecraft:frozen_river": "2025-05-03 19:14:13 +0000",
       "minecraft:cherry_grove": "2025-05-04 03:24:37 +0000",
+      "minecraft:sunflower_plains": "2025-05-04 21:01:22 +0000",
       "minecraft:birch_forest": "2025-05-04 04:05:49 +0000",
+      "minecraft:bamboo_jungle": "2025-05-04 21:02:27 +0000",
       "minecraft:beach": "2025-05-04 05:50:20 +0000",
+      "minecraft:dark_forest": "2025-05-04 21:02:37 +0000",
+      "minecraft:sparse_jungle": "2025-05-04 21:01:57 +0000",
       "minecraft:river": "2025-05-04 03:47:27 +0000",
       "minecraft:snowy_plains": "2025-05-03 19:09:56 +0000",
       "minecraft:dripstone_caves": "2025-05-03 20:03:38 +0000",
@@ -1816,8 +1820,10 @@
     "criteria": {
       "cooked_mutton": "2025-05-04 05:10:49 +0000",
       "porkchop": "2025-05-04 03:25:49 +0000",
+      "spider_eye": "2025-05-04 20:51:20 +0000",
       "potato": "2025-05-04 03:37:37 +0000",
       "rabbit": "2025-05-04 05:46:19 +0000",
+      "bread": "2025-05-04 20:51:50 +0000",
       "rotten_flesh": "2025-05-04 03:23:37 +0000",
       "beetroot": "2025-05-04 04:39:21 +0000",
       "enchanted_golden_apple": "2025-05-03 19:32:31 +0000",
@@ -1883,6 +1889,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-05-03 20:06:32 +0000",
       "minecraft:spider": "2025-05-03 19:36:14 +0000",
+      "minecraft:creeper": "2025-05-04 20:49:12 +0000",
       "minecraft:stray": "2025-05-03 20:11:14 +0000",
       "minecraft:zombie": "2025-05-03 20:06:50 +0000"
     },
@@ -3910,6 +3917,18 @@
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_sand": "2025-05-04 06:18:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-05-04 20:49:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-05-04 20:49:28 +0000"
     },
     "done": true
   },
