@@ -10,5 +10,17 @@
     "name": "RIKROSEL",
     "level": 4,
     "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "b4ac14dd-8d0f-3deb-a7d9-bc34a17b8b74",
+    "name": "deardam",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "23f313ca-ae75-3434-ae91-3c732ec0fd32",
+    "name": "pildelt",
+    "level": 4,
+    "bypassesPlayerLimit": false
   }
 ]
