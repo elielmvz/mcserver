@@ -1725,6 +1725,7 @@
       "minecraft:mangrove_swamp": "2025-05-04 21:29:11 +0000",
       "minecraft:sparse_jungle": "2025-05-04 21:01:57 +0000",
       "minecraft:river": "2025-05-04 03:47:27 +0000",
+      "minecraft:lukewarm_ocean": "2025-05-04 21:47:38 +0000",
       "minecraft:snowy_plains": "2025-05-03 19:09:56 +0000",
       "minecraft:dripstone_caves": "2025-05-03 20:03:38 +0000",
       "minecraft:grove": "2025-05-04 03:54:08 +0000",
@@ -3968,6 +3969,18 @@
   "ribbits:recipes/mossy_oak_planks_from_vine": {
     "criteria": {
       "has_vine": "2025-05-04 21:11:11 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/maraca": {
+    "criteria": {
+      "maraca": "2025-05-04 21:40:14 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/la_cucaracha": {
+    "criteria": {
+      "tame": "2025-05-04 21:40:20 +0000"
     },
     "done": true
   },

@@ -768,3 +768,49 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:color_essence'
 [04May2025 21:39:49.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RIKROSEL: Teleported RIKROSEL to Elielmvz]
 [04May2025 21:40:14.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIKROSEL has made the advancement [Mariachi?]
 [04May2025 21:40:20.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIKROSEL has completed the challenge [Mariachi!]
+[04May2025 21:41:42.559] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL moved too quickly! -5.140323872881481,0.931831332758577,9.034298488195077
+[04May2025 21:43:19.237] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL moved too quickly! 10.061003773071661,0.0,-2.823765349572568
+[04May2025 21:43:29.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Gamerule sendCommandFeedback is now set to: false]
+[04May2025 21:43:33.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Set own game mode to Survival Mode]
+[04May2025 21:43:37.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Set own game mode to Creative Mode]
+[04May2025 21:43:50.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Gamerule sendCommandFeedback is now set to: true]
+[04May2025 21:44:06.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Set own game mode to Survival Mode]
+[04May2025 21:44:07.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Set own game mode to Creative Mode]
+[04May2025 21:44:24.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set the time to 1000
+[04May2025 21:44:27.680] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL moved too quickly! 5.264777907040639,3.5180031450307183,-8.720762958357795
+[04May2025 21:44:30.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] hola
+[04May2025 21:44:44.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RIKROSEL: Teleported RIKROSEL to -1111.500000, 65.500000, 668.500000]
+[04May2025 21:44:50.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RIKROSEL: Teleported RIKROSEL to -1289.500000, 65.500000, 903.500000]
+[04May2025 21:45:02.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] Herobrine: I see you RIKROSEL...
+[04May2025 21:45:12.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RIKROSEL: Teleported RIKROSEL to -296.500000, 86.500000, 794.500000]
+[04May2025 21:45:59.231] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL moved too quickly! 10.416298394476286,0.0,1.61906431583634
+[04May2025 21:46:14.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] Herobrine: RIKROSEL Im follow you...
+[04May2025 21:46:42.582] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL moved too quickly! -3.9478167396370907,5.796659307175261,7.585715945241532
+[04May2025 21:47:11.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Gamerule sendCommandFeedback is now set to: false]
+[04May2025 21:47:16.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Set own game mode to Survival Mode]
+[04May2025 21:47:18.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Set own game mode to Creative Mode]
+[04May2025 21:47:35.883] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL moved too quickly! 8.658341545905728,-0.530851796147978,6.519346358146436
+[04May2025 21:47:51.030] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL moved too quickly! -8.51605221049465,3.750000149011612,5.248350361098801
+[04May2025 21:48:16.144] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL moved too quickly! -9.048729306191944,3.750000146970436,2.0343322364037704
+[04May2025 21:48:30.283] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL moved too quickly! -10.136341028978677,-3.6344311028887972,-2.605900861944747
+[04May2025 21:49:59.780] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL moved too quickly! -5.130906372323352,-2.928324556425153,-8.670550510996577
+[04May2025 21:50:13.864] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL moved too quickly! 6.801506195778529,6.937520841563526,3.6326925839366595
+[04May2025 21:51:02.030] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL lost connection: Disconnected
+[04May2025 21:51:02.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIKROSEL left the game
+[04May2025 21:52:20.081] [ForkJoinPool.commonPool-worker-6/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[04May2025 21:52:20.137] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RIKROSEL[/127.161.242.107:52215] logged in with entity id 41069 at (-748.1759889643819, 96.07862536721817, 882.3366419419489)
+[04May2025 21:52:20.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIKROSEL joined the game
+[04May2025 21:52:36.734] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL moved too quickly! -7.156618708117094,-0.39000001549720764,-7.26668578662418
+[04May2025 21:59:09.477] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL lost connection: Disconnected
+[04May2025 21:59:09.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIKROSEL left the game
+[04May2025 22:05:57.417] [ForkJoinPool.commonPool-worker-8/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[04May2025 22:05:57.435] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RIKROSEL[/127.161.242.107:58557] logged in with entity id 43543 at (-741.6999999880791, 69.0, 854.3000000119209)
+[04May2025 22:05:57.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIKROSEL joined the game
+[04May2025 22:09:51.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Teleported Elielmvz to RIKROSEL]
+[04May2025 22:13:46.776] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elielmvz lost connection: Disconnected
+[04May2025 22:13:46.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elielmvz left the game
+[04May2025 22:15:07.036] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Elielmvz[/127.92.5.59:49415] logged in with entity id 45153 at (-736.4216588481521, 70.0, 849.8837835690897)
+[04May2025 22:15:07.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elielmvz joined the game
+[04May2025 22:19:43.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RIKROSEL: Set the time to 1000]
+[04May2025 22:30:33.521] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elielmvz lost connection: Disconnected
+[04May2025 22:30:33.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elielmvz left the game

@@ -4648,7 +4648,25 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-05-04 20:42:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-05-04 20:55:36 +0000"
+    },
+    "done": true
+  },
+  "overweight_farming:recipes/apply_fullmetal_directly_to_compost": {
+    "criteria": {
+      "has_bone_meal": "2025-05-04 20:55:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
       "has_bone_meal": "2025-05-04 20:55:36 +0000"
     },
@@ -4660,27 +4678,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/decorations/safety_net": {
+  "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
-      "has_rope": "2025-05-04 21:06:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/shoot_arrow": {
-    "criteria": {
-      "shot_arrow": "2025-05-04 20:42:55 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/maraca": {
-    "criteria": {
-      "maraca": "2025-05-04 21:38:48 +0000"
-    },
-    "done": true
-  },
-  "overweight_farming:recipes/apply_fullmetal_directly_to_compost": {
-    "criteria": {
-      "has_bone_meal": "2025-05-04 20:55:36 +0000"
+      "has_sand": "2025-05-04 20:58:24 +0000"
     },
     "done": true
   },
@@ -4690,21 +4690,39 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/safety_net": {
+    "criteria": {
+      "has_rope": "2025-05-04 21:06:52 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/maraca": {
+    "criteria": {
+      "maraca": "2025-05-04 21:38:48 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/la_cucaracha": {
     "criteria": {
       "tame": "2025-05-04 21:39:22 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/sandstone": {
+  "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
     "criteria": {
-      "has_sand": "2025-05-04 20:58:24 +0000"
+      "has_pink_tulip": "2025-05-04 21:47:59 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/bone_block": {
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
     "criteria": {
-      "has_bone_meal": "2025-05-04 20:55:36 +0000"
+      "has_rose_bush": "2025-05-04 21:48:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-05-04 21:48:09 +0000"
     },
     "done": true
   },
