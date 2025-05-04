@@ -728,3 +728,43 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:color_essence'
 [04May2025 21:08:39.842] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL moved too quickly! 6.684555232108323,0.0,-7.733971899452854
 [04May2025 21:09:05.187] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL moved too quickly! 4.792087235220606,0.020229710840183657,-9.636300673514597
 [04May2025 21:09:44.433] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL moved too quickly! -10.135890477249859,0.0,-0.6551813364518466
+[04May2025 21:10:06.297] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL moved too quickly! 1.2658046938615826,-1.0,9.97593891100621
+[04May2025 21:10:33.431] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL moved too quickly! 0.35746523120724305,0.0,10.220658725796739
+[04May2025 21:12:20.380] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL moved too quickly! -10.345427332228155,0.15000000596046448,-0.5110430094725871
+[04May2025 21:12:49.314] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL moved too quickly! -10.200090240459986,3.0813200643742107,0.25944661391508816
+[04May2025 21:13:00.412] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL moved too quickly! 8.398534336168723,0.0,-6.608018171090748
+[04May2025 21:13:13.531] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL moved too quickly! 9.54604921337318,1.5765856970631802,-2.941954230822148
+[04May2025 21:14:21.889] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL moved too quickly! -9.18431328223869,-4.109310890764974,1.1616329282081779
+[04May2025 21:14:37.035] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL moved too quickly! -7.615374636487331,2.1661092609382138,-6.3065495855028075
+[04May2025 21:16:52.996] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL moved too quickly! -8.823764306935345,2.176759275064242,-4.397976737919521
+[04May2025 21:17:22.453] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL moved too quickly! -7.867305859438829,0.0,-6.3924377489046265
+[04May2025 21:17:49.235] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL moved too quickly! -5.991696054740032,1.075518145456087,7.945549141424522
+[04May2025 21:19:04.692] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL moved too quickly! 6.235800913477078,0.0,-7.820271477202482
+[04May2025 21:19:24.915] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL moved too quickly! 2.490621434728837,5.5677635550922275,-8.28790218730876
+[04May2025 21:19:38.935] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL moved too quickly! 1.9482861563174083,1.0,9.90481957650286
+[04May2025 21:19:55.037] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL moved too quickly! 4.69619016489014,-1.0,8.822557134496265
+[04May2025 21:20:06.214] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL moved too quickly! 0.5512630946511763,0.0,10.063488071097026
+[04May2025 21:20:19.289] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL moved too quickly! 7.363932820356695,-0.009294054728343326,-6.772412682421418
+[04May2025 21:20:45.561] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL moved too quickly! -8.955553940732216,2.674172109090847,3.8245543729221936
+[04May2025 21:20:59.285] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL lost connection: Timed out
+[04May2025 21:20:59.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIKROSEL left the game
+[04May2025 21:21:15.238] [ForkJoinPool.commonPool-worker-4/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[04May2025 21:21:15.285] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RIKROSEL[/127.161.242.107:60491] logged in with entity id 22068 at (-1331.9761827475718, 69.91959853966051, 986.818978078446)
+[04May2025 21:21:15.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIKROSEL joined the game
+[04May2025 21:31:47.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Teleported Elielmvz to RIKROSEL]
+[04May2025 21:31:58.372] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL moved too quickly! 10.212838007418075,0.0,0.4150243370569342
+[04May2025 21:32:23.630] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL moved too quickly! -5.60252270711684,0.0,-8.288511269657022
+[04May2025 21:32:53.647] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL moved too quickly! 0.9643421321137646,0.0,10.028294417413917
+[04May2025 21:34:29.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RIKROSEL: Teleported RIKROSEL to -10.500000, 76.500000, 241.500000]
+[04May2025 21:36:02.286] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL moved too quickly! 1.6987778675045178,-3.3750001333661146,9.477830377681073
+[04May2025 21:37:09.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Teleported Elielmvz to -1009.500000, 64.500000, 968.500000]
+[04May2025 21:37:25.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RIKROSEL: Teleported RIKROSEL to 55.500000, 71.500000, 376.500000]
+[04May2025 21:38:31.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Set the time to 1000]
+[04May2025 21:38:32.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RIKROSEL: Teleported RIKROSEL to -184.500000, 65.500000, 394.500000]
+[04May2025 21:38:48.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elielmvz has made the advancement [Mariachi?]
+[04May2025 21:39:03.503] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL moved too quickly! -8.776940103848858,0.0,-5.008235604012441
+[04May2025 21:39:22.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elielmvz has completed the challenge [Mariachi!]
+[04May2025 21:39:29.665] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL moved too quickly! -9.696191007609741,0.0,-4.027610093010878
+[04May2025 21:39:49.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RIKROSEL: Teleported RIKROSEL to Elielmvz]
+[04May2025 21:40:14.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIKROSEL has made the advancement [Mariachi?]
+[04May2025 21:40:20.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIKROSEL has completed the challenge [Mariachi!]

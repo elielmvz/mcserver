@@ -1734,6 +1734,7 @@
       "minecraft:old_growth_birch_forest": "2025-05-04 03:56:36 +0000",
       "minecraft:deep_dark": "2025-05-04 04:08:12 +0000",
       "minecraft:meadow": "2025-05-04 03:23:23 +0000",
+      "minecraft:savanna": "2025-05-04 21:09:14 +0000",
       "minecraft:plains": "2025-05-04 03:27:38 +0000"
     },
     "done": false
@@ -4659,9 +4660,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/safety_net": {
+    "criteria": {
+      "has_rope": "2025-05-04 21:06:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2025-05-04 20:42:55 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/maraca": {
+    "criteria": {
+      "maraca": "2025-05-04 21:38:48 +0000"
     },
     "done": true
   },
@@ -4674,6 +4687,12 @@
   "alexsmobs:alexsmobs/stomp_leafcutter_anthill": {
     "criteria": {
       "ex": "2025-05-04 21:04:07 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/la_cucaracha": {
+    "criteria": {
+      "tame": "2025-05-04 21:39:22 +0000"
     },
     "done": true
   },
