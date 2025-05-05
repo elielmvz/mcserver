@@ -354,3 +354,30 @@
 [05May2025 03:50:27.988] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL moved too quickly! -5.971522986963691,1.0,8.04083492547852
 [05May2025 03:51:33.366] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL moved too quickly! 4.686934007809214,-1.7531999805212024,-8.716840236758344
 [05May2025 03:51:46.368] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL moved too quickly! -10.078289585328037,0.23152379758701613,0.2542634093920242
+[05May2025 03:52:28.035] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elielmvz lost connection: Disconnected
+[05May2025 03:52:28.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elielmvz left the game
+[05May2025 03:52:36.850] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Elielmvz[/127.92.5.59:46743] logged in with entity id 80388 at (-204.63702766311258, 108.0, 2503.1637091128136)
+[05May2025 03:52:36.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elielmvz joined the game
+[05May2025 03:52:55.873] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL moved too quickly! -3.041888380422108,-0.2538907259487644,-9.710184495033445
+[05May2025 03:56:18.211] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL moved too quickly! 9.947316655028686,-2.0,0.45055994648328124
+[05May2025 03:56:44.313] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL moved too quickly! 4.764218544189191,-1.0,8.76006074925499
+[05May2025 03:57:12.522] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL moved too quickly! 5.333669154754745,-0.12129684053920187,8.563532618450154
+[05May2025 03:58:53.988] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL moved too quickly! 0.2791019246477049,-1.0,-10.090808816114986
+[05May2025 03:59:23.108] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL moved too quickly! 10.006730252538318,1.0,0.7502770180753942
+[05May2025 03:59:59.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Gamerule sendCommandFeedback is now set to: true]
+[05May2025 04:00:05.636] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:swamp took 137 ms
+[05May2025 04:00:09.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Teleported Elielmvz to 540.500000, 104.000000, 3234.500000]
+[05May2025 04:00:12.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Set own game mode to Creative Mode]
+[05May2025 04:00:22.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Set the time to 1000]
+[05May2025 04:00:33.607] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL moved too quickly! 5.476202565610151,-0.2336320060424839,-8.369539505589273
+[05May2025 04:00:44.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Teleported Elielmvz to 529.500000, 65.500000, 3277.500000]
+[05May2025 04:00:56.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Teleported Elielmvz to 105.500000, 74.500000, 1995.500000]
+[05May2025 04:00:59.718] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:swamp took 229 ms
+[05May2025 04:01:03.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Teleported Elielmvz to 1001.500000, 74.000000, 1195.500000]
+[05May2025 04:01:59.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RIKROSEL: Teleported RIKROSEL to Elielmvz]
+[05May2025 04:03:07.522] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL moved too quickly! 3.5033399536773686,0.33389073906178623,9.453509109005154
+[05May2025 04:04:35.078] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL moved too quickly! -3.0,-6.593821145304666,7.200469060104979
+[05May2025 04:05:12.346] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL moved too quickly! -9.436189726350676,-3.535840625044557,-0.8977705112574768
+[05May2025 04:06:45.985] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL moved too quickly! 9.878806195871448,2.1434688712351146,0.6705853033471385
+[05May2025 04:11:21.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RIKROSEL: Set own game mode to Creative Mode]
+[05May2025 04:11:22.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Gave 64 [Amethyst Shard] to Elielmvz]
