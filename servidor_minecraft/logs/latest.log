@@ -121,3 +121,17 @@
 [05May2025 01:24:40.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elielmvz joined the game
 [05May2025 01:25:51.933] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elielmvz lost connection: Disconnected
 [05May2025 01:25:51.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elielmvz left the game
+[05May2025 01:30:03.798] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: deardam[/127.169.157.215:34251] logged in with entity id 38585 at (-205.62062839195738, 104.5, 2498.4499612841055)
+[05May2025 01:30:03.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: deardam joined the game
+[05May2025 01:30:59.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RIKROSEL: Set own game mode to Survival Mode]
+[05May2025 01:32:07.838] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@32d38c34[id=<null>,name=Elielmvz,properties={},legacy=false] (/127.92.5.59:53153) lost connection: Disconnected
+[05May2025 01:32:20.601] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Elielmvz[/127.92.5.59:47075] logged in with entity id 39984 at (-197.79166194080162, 104.0, 2501.1725378766246)
+[05May2025 01:32:20.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elielmvz joined the game
+[05May2025 01:34:01.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RIKROSEL: Set own game mode to Creative Mode]
+[05May2025 01:34:21.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RIKROSEL: Set own game mode to Survival Mode]
+[05May2025 01:36:48.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RIKROSEL: Set own game mode to Creative Mode]
+[05May2025 01:40:04.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RIKROSEL: Set own game mode to Survival Mode]
+[05May2025 01:40:07.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RIKROSEL: Teleported RIKROSEL to Elielmvz]
+[05May2025 01:44:24.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Gave 64 [Dirt] to Elielmvz]
+[05May2025 01:46:13.280] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elielmvz lost connection: Disconnected
+[05May2025 01:46:13.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elielmvz left the game
