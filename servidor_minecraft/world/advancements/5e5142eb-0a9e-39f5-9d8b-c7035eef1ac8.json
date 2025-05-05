@@ -4726,15 +4726,195 @@
     },
     "done": true
   },
+  "mca:recipes/decorations/black_cherry_crib": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-04 23:47:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_slab": {
+    "criteria": {
+      "has_planks": "2025-05-04 23:47:23 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/cyan_cherry_crib": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-04 23:47:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-05-04 23:40:14 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/white_cherry_crib": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-04 23:47:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_fence": {
+    "criteria": {
+      "has_planks": "2025-05-04 23:47:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-04 23:47:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_chestplate": "2025-05-04 23:30:31 +0000"
     },
     "done": true
   },
+  "mca:recipes/decorations/light_blue_cherry_crib": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-04 23:47:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-05-04 23:40:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2025-05-04 23:31:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-04 23:47:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_button": {
+    "criteria": {
+      "has_planks": "2025-05-04 23:47:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-05-04 23:40:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-05-04 23:40:14 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/pink_cherry_crib": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-04 23:47:23 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/yellow_cherry_crib": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-04 23:47:23 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/brown_cherry_crib": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-04 23:47:23 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/purple_cherry_crib": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-04 23:47:23 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/red_cherry_crib": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-04 23:47:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-04 23:47:23 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/orange_cherry_crib": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-04 23:47:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_sign": {
+    "criteria": {
+      "has_planks": "2025-05-04 23:47:23 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/gray_cherry_crib": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-04 23:47:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-04 23:47:23 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/green_cherry_crib": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-04 23:47:23 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/magenta_cherry_crib": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-04 23:47:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/obtain_netherite_hoe": {
+    "criteria": {
+      "netherite_hoe": "2025-05-04 23:44:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_door": {
+    "criteria": {
+      "has_planks": "2025-05-04 23:47:23 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/blue_cherry_crib": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-04 23:47:23 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/lime_cherry_crib": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-04 23:47:23 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/light_gray_cherry_crib": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-04 23:47:23 +0000"
     },
     "done": true
   },
