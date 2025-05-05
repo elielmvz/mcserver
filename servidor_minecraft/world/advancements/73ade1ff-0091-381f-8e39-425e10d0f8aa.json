@@ -4640,9 +4640,27 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/novelty_hat": {
+    "criteria": {
+      "sopa_de_macaco": "2025-05-05 05:01:50 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/enderiophage": {
     "criteria": {
       "killed_by": "2025-05-05 04:45:22 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/leafcutter_ant_pupa": {
+    "criteria": {
+      "leafcutter_ant_pupa": "2025-05-05 05:07:21 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:ritual_gravity": {
+    "criteria": {
+      "gravity_effect": "2025-05-05 05:15:10 +0000"
     },
     "done": true
   },
@@ -4661,6 +4679,12 @@
   "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
     "criteria": {
       "has_pink_tulip": "2025-05-05 04:46:51 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:amethyst_golem_charm": {
+    "criteria": {
+      "has_amethyst_golem_charm": "2025-05-05 05:20:08 +0000"
     },
     "done": true
   },
@@ -4688,9 +4712,33 @@
     },
     "done": true
   },
+  "ars_nouveau:wixie_charm": {
+    "criteria": {
+      "has_wixie_charm": "2025-05-05 05:22:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_poppy": "2025-05-05 04:46:49 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:magebloom_crop": {
+    "criteria": {
+      "has_magebloom_crop": "2025-05-05 05:10:42 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:whirlisprig_charm": {
+    "criteria": {
+      "has_whirlisprig_charm": "2025-05-05 05:10:02 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/sopa_de_macaco": {
+    "criteria": {
+      "sopa_de_macaco": "2025-05-05 05:06:38 +0000"
     },
     "done": true
   },
@@ -4749,6 +4797,12 @@
     },
     "done": true
   },
+  "ars_nouveau:starby_charm": {
+    "criteria": {
+      "has_starbuncle_charm": "2025-05-05 05:21:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/yellow_dye_from_sunflower": {
     "criteria": {
       "has_sunflower": "2025-05-05 04:47:19 +0000"
@@ -4758,6 +4812,12 @@
   "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
     "criteria": {
       "has_cod": "2025-05-05 03:30:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/sweet_berry_cookie": {
+    "criteria": {
+      "has_sweet_berries": "2025-05-05 04:51:09 +0000"
     },
     "done": true
   },

@@ -5298,6 +5298,36 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-05-05 05:05:31 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:apprentice_spell_book": {
+    "criteria": {
+      "has_apprentice_spell_book": "2025-05-05 05:13:36 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:magebloom_crop": {
+    "criteria": {
+      "has_magebloom_crop": "2025-05-05 05:07:49 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:whirlisprig_charm": {
+    "criteria": {
+      "has_whirlisprig_charm": "2025-05-05 05:09:51 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/sopa_de_macaco": {
+    "criteria": {
+      "sopa_de_macaco": "2025-05-05 05:06:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
     "criteria": {
       "has_mossy_cobblestone": "2025-05-05 04:38:02 +0000"
@@ -5322,6 +5352,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-05-05 05:05:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_planks": {
     "criteria": {
       "has_logs": "2025-05-05 04:13:19 +0000"
@@ -5334,9 +5370,33 @@
     },
     "done": true
   },
+  "ars_nouveau:summon_focus": {
+    "criteria": {
+      "has_summon_focus": "2025-05-05 05:18:37 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:starbuncle_shades": {
+    "criteria": {
+      "has_starbuncle_shades": "2025-05-05 05:05:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-05-05 04:38:02 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:mob_jar": {
+    "criteria": {
+      "has_mob_jar": "2025-05-05 05:12:16 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:source_jar": {
+    "criteria": {
+      "has_source_jar": "2025-05-05 05:12:36 +0000"
     },
     "done": true
   },
