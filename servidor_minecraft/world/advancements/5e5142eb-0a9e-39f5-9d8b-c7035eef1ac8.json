@@ -4762,6 +4762,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2025-05-05 00:42:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cherry_stairs": {
     "criteria": {
       "has_planks": "2025-05-04 23:47:23 +0000"
@@ -4834,6 +4840,18 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/advanced_magnet_upgrade": {
+    "criteria": {
+      "has_advanced_pickup_upgrade": "2025-05-05 00:43:01 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2025-05-05 00:42:01 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/purple_cherry_crib": {
     "criteria": {
       "has_cherry_planks": "2025-05-04 23:47:23 +0000"
@@ -4876,9 +4894,21 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_omega_tier": {
+    "criteria": {
+      "has_stack_upgrade_tier_4": "2025-05-05 00:45:59 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/green_cherry_crib": {
     "criteria": {
       "has_cherry_planks": "2025-05-04 23:47:23 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2025-05-05 00:40:51 +0000"
     },
     "done": true
   },
@@ -4915,6 +4945,12 @@
   "mca:recipes/decorations/light_gray_cherry_crib": {
     "criteria": {
       "has_cherry_planks": "2025-05-04 23:47:23 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2025-05-05 00:40:51 +0000"
     },
     "done": true
   },
