@@ -3989,39 +3989,51 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/mushroom_rice": {
+  "minecraft:story/shiny_gear": {
     "criteria": {
-      "has_any_ingredient": "2025-05-04 23:50:39 +0000"
+      "diamond_leggings": "2025-05-04 23:25:29 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/food/grilled_salmon": {
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
-      "has_salmon": "2025-05-04 23:57:56 +0000"
+      "has_beef": "2025-05-04 23:26:19 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/stuffed_pumpkin_block": {
+  "farmersdelight:recipes/cooking/pasta_with_meatballs": {
     "criteria": {
-      "has_pumpkin": "2025-05-04 23:50:39 +0000"
+      "has_any_ingredient": "2025-05-04 23:26:19 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/bookshelf": {
+  "minecraft:recipes/food/cooked_beef": {
     "criteria": {
-      "has_book": "2025-05-04 23:51:37 +0000"
+      "has_beef": "2025-05-04 23:26:19 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/book": {
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
-      "has_paper": "2025-05-04 23:52:15 +0000"
+      "has_beef": "2025-05-04 23:26:19 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
     "criteria": {
-      "has_golden_chestplate": "2025-05-04 23:56:55 +0000"
+      "has_cornflower": "2025-05-04 23:27:40 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/bouquet": {
+    "criteria": {
+      "has_item": "2025-05-04 23:27:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-05-04 23:32:09 +0000"
     },
     "done": true
   },
@@ -4043,39 +4055,51 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/end_crystal": {
+  "minecraft:recipes/redstone/note_block": {
     "criteria": {
-      "has_ender_eye": "2025-05-04 23:57:32 +0000"
+      "has_redstone": "2025-05-04 23:43:23 +0000"
     },
     "done": true
   },
-  "celestisynth:recipes/misc/eyebomination": {
+  "minecraft:recipes/redstone/target": {
     "criteria": {
-      "has_item": "2025-05-04 23:57:32 +0000"
+      "has_redstone": "2025-05-04 23:43:23 +0000"
     },
     "done": true
   },
-  "mca:recipes/misc/books": {
+  "minecraft:recipes/tools/compass": {
     "criteria": {
-      "has_item": "2025-05-04 23:52:15 +0000"
+      "has_redstone": "2025-05-04 23:43:23 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+  "minecraft:recipes/redstone/dropper": {
     "criteria": {
-      "has_golden_chestplate": "2025-05-04 23:56:55 +0000"
+      "has_redstone": "2025-05-04 23:43:23 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_salmon": {
+  "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
-      "has_salmon": "2025-05-04 23:57:56 +0000"
+      "has_redstone": "2025-05-04 23:43:23 +0000"
     },
     "done": true
   },
-  "mca:recipes/misc/blueprint": {
+  "minecraft:recipes/redstone/piston": {
     "criteria": {
-      "has_item": "2025-05-04 23:52:15 +0000"
+      "has_redstone": "2025-05-04 23:43:23 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-04 23:50:39 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/stuffed_pumpkin_block": {
+    "criteria": {
+      "has_pumpkin": "2025-05-04 23:50:39 +0000"
     },
     "done": true
   },
@@ -4085,9 +4109,27 @@
     },
     "done": true
   },
-  "minecraft:story/shiny_gear": {
+  "farmersdelight:recipes/cooking/cooked_rice": {
     "criteria": {
-      "diamond_leggings": "2025-05-04 23:25:29 +0000"
+      "has_rice": "2025-05-04 23:50:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-05-04 23:50:39 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/rice_bag": {
+    "criteria": {
+      "has_rice": "2025-05-04 23:50:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-05-04 23:51:37 +0000"
     },
     "done": true
   },
@@ -4109,21 +4151,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/note_block": {
+  "minecraft:recipes/misc/book": {
     "criteria": {
-      "has_redstone": "2025-05-04 23:43:23 +0000"
+      "has_paper": "2025-05-04 23:52:15 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/target": {
+  "mca:recipes/misc/books": {
     "criteria": {
-      "has_redstone": "2025-05-04 23:43:23 +0000"
+      "has_item": "2025-05-04 23:52:15 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/cooked_rice": {
+  "mca:recipes/misc/blueprint": {
     "criteria": {
-      "has_rice": "2025-05-04 23:50:39 +0000"
+      "has_item": "2025-05-04 23:52:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-05-04 23:52:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-05-04 23:55:01 +0000"
     },
     "done": true
   },
@@ -4133,27 +4187,45 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/compass": {
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
-      "has_redstone": "2025-05-04 23:43:23 +0000"
+      "has_golden_chestplate": "2025-05-04 23:56:55 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/pumpkin_pie": {
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
-      "has_pumpkin": "2025-05-04 23:50:39 +0000"
+      "has_golden_chestplate": "2025-05-04 23:56:55 +0000"
     },
     "done": true
   },
-  "minecraft:husbandry/breed_an_animal": {
+  "minecraft:recipes/decorations/end_crystal": {
     "criteria": {
-      "bred": "2025-05-04 23:32:09 +0000"
+      "has_ender_eye": "2025-05-04 23:57:32 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_beef_from_smoking": {
+  "celestisynth:recipes/misc/eyebomination": {
     "criteria": {
-      "has_beef": "2025-05-04 23:26:19 +0000"
+      "has_item": "2025-05-04 23:57:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-05-04 23:57:32 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/grilled_salmon": {
+    "criteria": {
+      "has_salmon": "2025-05-04 23:57:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-05-04 23:57:56 +0000"
     },
     "done": true
   },
@@ -4166,78 +4238,6 @@
   "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
       "has_salmon": "2025-05-04 23:57:56 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/pasta_with_meatballs": {
-    "criteria": {
-      "has_any_ingredient": "2025-05-04 23:26:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dropper": {
-    "criteria": {
-      "has_redstone": "2025-05-04 23:43:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/redstone_block": {
-    "criteria": {
-      "has_redstone": "2025-05-04 23:43:23 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/building_blocks/rice_bag": {
-    "criteria": {
-      "has_rice": "2025-05-04 23:50:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/blue_dye_from_cornflower": {
-    "criteria": {
-      "has_cornflower": "2025-05-04 23:27:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/sea_lantern": {
-    "criteria": {
-      "has_prismarine_crystals": "2025-05-04 23:55:01 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/misc/bouquet": {
-    "criteria": {
-      "has_item": "2025-05-04 23:27:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cartography_table": {
-    "criteria": {
-      "has_paper": "2025-05-04 23:52:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/ender_chest": {
-    "criteria": {
-      "has_ender_eye": "2025-05-04 23:57:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_beef": {
-    "criteria": {
-      "has_beef": "2025-05-04 23:26:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/piston": {
-    "criteria": {
-      "has_redstone": "2025-05-04 23:43:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
-    "criteria": {
-      "has_beef": "2025-05-04 23:26:19 +0000"
     },
     "done": true
   },

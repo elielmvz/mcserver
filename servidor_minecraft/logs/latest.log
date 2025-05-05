@@ -2,3 +2,8 @@
 [05May2025 00:13:00.296] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL lost connection: Disconnected
 [05May2025 00:13:00.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIKROSEL left the game
 [05May2025 00:13:00.352] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[05May2025 00:27:20.130] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5b595da7[id=<null>,name=RIKROSEL,properties={},legacy=false] (/127.161.242.107:57253) lost connection: Disconnected
+[05May2025 00:27:27.645] [ForkJoinPool.commonPool-worker-7/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[05May2025 00:27:27.699] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RIKROSEL[/127.161.242.107:43603] logged in with entity id 27268 at (-650.5, 68.0, 810.5)
+[05May2025 00:27:27.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIKROSEL joined the game
+[05May2025 00:28:17.844] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL moved too quickly! -0.9846592529577265,-10.979476483542612,-1.0794436216191343
