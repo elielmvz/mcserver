@@ -4242,6 +4242,42 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wild_armor_trim_smithing_template": {
+    "criteria": {
+      "has_wild_armor_trim_smithing_template": "2025-05-05 00:32:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wild_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-05-05 00:32:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-05-05 00:32:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-05-05 00:32:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-05-05 00:32:40 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/strange_fish_finder": {
+    "criteria": {
+      "sopa_de_macaco": "2025-05-05 00:34:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
       "has_stone": "2025-05-05 00:40:30 +0000"
@@ -4290,12 +4326,6 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/apple_cider": {
-    "criteria": {
-      "has_apple": "2025-05-05 00:40:51 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-05-05 00:40:30 +0000"
@@ -4308,27 +4338,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/wild_armor_trim_smithing_template": {
-    "criteria": {
-      "has_wild_armor_trim_smithing_template": "2025-05-05 00:32:03 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-05-05 00:40:30 +0000"
-    },
-    "done": true
-  },
-  "farm_and_charm:main/introduction_mincing": {
-    "criteria": {
-      "use_mincer": "2025-05-05 01:01:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/wild_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2025-05-05 00:32:03 +0000"
     },
     "done": true
   },
@@ -4338,15 +4350,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/flint_and_steel": {
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
-      "has_obsidian": "2025-05-05 00:32:40 +0000"
+      "has_stone": "2025-05-05 00:40:30 +0000"
     },
     "done": true
   },
-  "minecraft:story/form_obsidian": {
+  "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
-      "obsidian": "2025-05-05 00:32:40 +0000"
+      "has_stone": "2025-05-05 00:40:30 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2025-05-05 00:40:51 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:main/introduction_mincing": {
+    "criteria": {
+      "use_mincer": "2025-05-05 01:01:25 +0000"
     },
     "done": true
   },
@@ -4357,27 +4381,9 @@
     },
     "done": false
   },
-  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+  "celestisynth:obtain_crescentia": {
     "criteria": {
-      "has_stone": "2025-05-05 00:40:30 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/strange_fish_finder": {
-    "criteria": {
-      "sopa_de_macaco": "2025-05-05 00:34:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/enchanting_table": {
-    "criteria": {
-      "has_obsidian": "2025-05-05 00:32:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_stairs": {
-    "criteria": {
-      "has_stone": "2025-05-05 00:40:30 +0000"
+      "criteria": "2025-05-05 01:11:30 +0000"
     },
     "done": true
   },
