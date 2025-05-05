@@ -1827,6 +1827,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "honey_bottle": "2025-05-05 02:02:18 +0000",
       "cooked_mutton": "2025-05-04 05:10:49 +0000",
       "baked_potato": "2025-05-05 00:46:21 +0000",
       "porkchop": "2025-05-04 03:25:49 +0000",
@@ -4387,9 +4388,27 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/honey_cookie": {
+    "criteria": {
+      "has_honey_bottle": "2025-05-05 02:02:12 +0000"
+    },
+    "done": true
+  },
   "celestisynth:obtain_breezebreaker": {
     "criteria": {
       "criteria": "2025-05-05 01:34:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2025-05-05 02:02:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2025-05-05 02:02:12 +0000"
     },
     "done": true
   },
