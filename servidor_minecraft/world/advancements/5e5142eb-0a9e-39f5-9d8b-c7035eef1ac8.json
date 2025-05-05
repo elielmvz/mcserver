@@ -1719,6 +1719,7 @@
       "minecraft:sunflower_plains": "2025-05-04 04:39:21 +0000",
       "minecraft:birch_forest": "2025-05-04 04:05:32 +0000",
       "minecraft:bamboo_jungle": "2025-05-04 21:02:03 +0000",
+      "minecraft:savanna_plateau": "2025-05-05 03:06:31 +0000",
       "minecraft:beach": "2025-05-03 18:54:16 +0000",
       "minecraft:dark_forest": "2025-05-04 21:02:04 +0000",
       "minecraft:sparse_jungle": "2025-05-04 21:01:52 +0000",
@@ -5019,9 +5020,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_horse_armor": "2025-05-05 02:51:13 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/honey_cookie": {
     "criteria": {
       "has_honey_bottle": "2025-05-05 02:02:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-05-05 03:04:58 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/misc/eyebomination": {
+    "criteria": {
+      "has_item": "2025-05-05 03:04:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_horse_armor": "2025-05-05 02:51:13 +0000"
     },
     "done": true
   },
@@ -5040,6 +5065,12 @@
   "minecraft:recipes/decorations/yellow_bed": {
     "criteria": {
       "has_yellow_wool": "2025-05-05 02:10:12 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-05-05 03:00:24 +0000"
     },
     "done": true
   },
@@ -5184,6 +5215,12 @@
   "minecraft:recipes/decorations/lime_banner": {
     "criteria": {
       "has_lime_wool": "2025-05-05 02:10:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-05-05 03:04:58 +0000"
     },
     "done": true
   },

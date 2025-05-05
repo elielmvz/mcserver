@@ -8014,3 +8014,98 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:color_essence'
 [05May2025 02:45:50.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Teleported Elielmvz to RIKROSEL]
 [05May2025 02:48:07.420] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [05May2025 02:48:07.429] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05May2025 02:51:17.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RIKROSEL> el mapa
+[05May2025 02:51:36.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RIKROSEL> buscaloo pues
+[05May2025 02:52:04.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <deardam> esta por la casa
+[05May2025 02:52:11.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <deardam> volvamos
+[05May2025 02:52:29.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RIKROSEL> no
+[05May2025 02:52:46.086] [Netty Epoll Server IO #7/DEBUG] [emotecraft/]: [emotes server] Received data from: 73ade1ff-0091-381f-8e39-425e10d0f8aa data: NetData{purpose=STREAM, threshold=8.0, stopEmoteID=null, emoteData=KeyframeAnimation{uuid=0de63fbe-2f20-44e0-8969-479b76ceeb6b, length=44, extra={valid=true}}, startingAt=0, player=null}
+[05May2025 02:52:46.917] [Netty Epoll Server IO #7/DEBUG] [emotecraft/]: [emotes server] Received data from: 73ade1ff-0091-381f-8e39-425e10d0f8aa data: NetData{purpose=STOP, threshold=8.0, stopEmoteID=0de63fbe-2f20-44e0-8969-479b76ceeb6b, emoteData=null, startingAt=0, player=null}
+[05May2025 02:52:48.866] [Netty Epoll Server IO #7/DEBUG] [emotecraft/]: [emotes server] Received data from: 73ade1ff-0091-381f-8e39-425e10d0f8aa data: NetData{purpose=STREAM, threshold=8.0, stopEmoteID=null, emoteData=KeyframeAnimation{uuid=3045b335-12ca-4ddb-aca5-0aef450a5e4c, length=78, extra={valid=true}}, startingAt=0, player=null}
+[05May2025 02:53:07.416] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05May2025 02:53:07.425] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05May2025 02:54:32.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RIKROSEL: Teleported RIKROSEL to Elielmvz]
+[05May2025 02:55:19.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RIKROSEL> por eso te dije
+[05May2025 02:55:25.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RIKROSEL> q no es acaaaaaaa
+[05May2025 02:55:48.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RIKROSEL: Set the time to 1000]
+[05May2025 02:55:59.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <deardam> yo que se que quieres que te diga brother
+[05May2025 02:57:32.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [deardam: Teleported deardam to -649.500000, 80.500000, 809.500000]
+[05May2025 02:57:47.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [deardam: Teleported deardam to -754.500000, 64.500000, 635.500000]
+[05May2025 02:58:07.423] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05May2025 02:58:07.432] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05May2025 02:58:12.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [deardam: Teleported deardam to -649.500000, 80.500000, 809.500000]
+[05May2025 02:59:31.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [deardam: Teleported deardam to -1168.500000, 64.500000, 850.500000]
+[05May2025 02:59:46.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [deardam: Teleported deardam to -1305.500000, 67.500000, 758.500000]
+[05May2025 03:00:24.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elielmvz has made the advancement [Mine? Mine? Mine?]
+[05May2025 03:00:57.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [deardam: Teleported deardam to -1491.500000, 63.500000, 774.500000]
+[05May2025 03:01:11.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [deardam: Teleported deardam to -1805.500000, 104.500000, 1015.500000]
+[05May2025 03:01:32.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [deardam: Teleported deardam to -1762.500000, 75.500000, 851.500000]
+[05May2025 03:01:37.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: deardam has made the advancement [Mine? Mine? Mine?]
+[05May2025 03:01:49.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [deardam: Teleported deardam to -1813.500000, 69.500000, 773.500000]
+[05May2025 03:01:56.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <deardam> aca esta el tesoro
+[05May2025 03:02:21.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RIKROSEL: Set own game mode to Creative Mode]
+[05May2025 03:02:53.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Teleported Elielmvz to deardam]
+[05May2025 03:03:02.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RIKROSEL: Set own game mode to Survival Mode]
+[05May2025 03:03:07.426] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05May2025 03:03:07.435] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05May2025 03:03:09.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RIKROSEL: Teleported RIKROSEL to deardam]
+[05May2025 03:05:01.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [deardam: Teleported deardam to -1741.500000, 78.500000, 921.500000]
+[05May2025 03:06:15.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [deardam: Teleported deardam to Elielmvz]
+[05May2025 03:07:05.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [deardam: Teleported deardam to -2062.500000, 71.500000, 859.500000]
+[05May2025 03:07:43.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [deardam: Teleported deardam to -1666.500000, 73.500000, 1254.500000]
+[05May2025 03:08:07.427] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05May2025 03:08:07.435] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05May2025 03:08:10.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [deardam: Teleported deardam to -436.500000, 91.500000, 632.500000]
+[05May2025 03:08:26.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [deardam: Teleported deardam to -307.500000, 87.500000, 518.500000]
+[05May2025 03:08:41.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [deardam: Teleported deardam to -188.500000, 67.500000, 405.500000]
+[05May2025 03:08:44.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RIKROSEL: Set the time to 1000]
+[05May2025 03:08:48.040] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:swamp took 1433 ms
+[05May2025 03:08:54.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [deardam: Teleported deardam to -46.500000, 74.500000, 323.500000]
+[05May2025 03:09:16.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [deardam: Teleported deardam to -72.500000, 75.500000, 152.500000]
+[05May2025 03:09:27.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [deardam: Teleported deardam to -88.500000, 80.500000, -13.500000]
+[05May2025 03:09:45.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [deardam: Teleported deardam to -154.500000, 70.500000, -185.500000]
+[05May2025 03:10:02.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [deardam: Teleported deardam to -210.500000, 65.500000, -349.500000]
+[05May2025 03:10:15.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [deardam: Teleported deardam to -339.500000, 73.500000, -291.500000]
+[05May2025 03:10:55.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Teleported Elielmvz to deardam]
+[05May2025 03:11:06.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RIKROSEL: Teleported RIKROSEL to deardam]
+[05May2025 03:12:04.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Gave 1 [Torch] to Elielmvz]
+[05May2025 03:12:05.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Gave 1 [Torch] to Elielmvz]
+[05May2025 03:12:05.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Gave 1 [Torch] to Elielmvz]
+[05May2025 03:12:05.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Gave 1 [Torch] to Elielmvz]
+[05May2025 03:12:05.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Gave 1 [Torch] to Elielmvz]
+[05May2025 03:12:05.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Gave 1 [Torch] to Elielmvz]
+[05May2025 03:12:05.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Gave 1 [Torch] to Elielmvz]
+[05May2025 03:12:05.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Gave 1 [Torch] to Elielmvz]
+[05May2025 03:12:06.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Gave 1 [Torch] to Elielmvz]
+[05May2025 03:12:06.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Gave 1 [Torch] to Elielmvz]
+[05May2025 03:13:03.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [deardam: Teleported deardam to -370.500000, 70.500000, -494.500000]
+[05May2025 03:13:07.426] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05May2025 03:13:07.451] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05May2025 03:13:20.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [deardam: Teleported deardam to -486.500000, 81.500000, -502.500000]
+[05May2025 03:13:35.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Teleported Elielmvz to deardam]
+[05May2025 03:13:41.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RIKROSEL: Teleported RIKROSEL to deardam]
+[05May2025 03:13:52.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elielmvz fell from a high place
+[05May2025 03:14:06.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Teleported Elielmvz to deardam]
+[05May2025 03:14:15.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: deardam fell from a high place
+[05May2025 03:14:24.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [deardam: Teleported deardam to Elielmvz]
+[05May2025 03:15:55.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [deardam: Teleported deardam to -452.500000, -49.500000, -551.500000]
+[05May2025 03:16:17.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Teleported Elielmvz to RIKROSEL]
+[05May2025 03:16:42.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Teleported Elielmvz to deardam]
+[05May2025 03:16:42.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RIKROSEL: Teleported RIKROSEL to deardam]
+[05May2025 03:16:42.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [deardam: Teleported deardam to -509.500000, -46.500000, -706.500000]
+[05May2025 03:17:03.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Gave 64 [Torch] to Elielmvz]
+[05May2025 03:17:57.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Teleported Elielmvz to deardam]
+[05May2025 03:17:58.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RIKROSEL: Teleported RIKROSEL to deardam]
+[05May2025 03:18:07.419] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05May2025 03:18:07.428] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05May2025 03:18:34.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [deardam: Teleported deardam to -339.500000, 73.500000, -291.500000]
+[05May2025 03:18:49.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [deardam: Teleported deardam to -311.500000, 76.500000, -649.500000]
+[05May2025 03:18:50.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RIKROSEL: Teleported RIKROSEL to deardam]
+[05May2025 03:19:10.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [deardam: Teleported deardam to -252.500000, 72.500000, -813.500000]
+[05May2025 03:19:24.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [deardam: Teleported deardam to -297.500000, 69.500000, -968.500000]
+[05May2025 03:19:26.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Gamerule sendCommandFeedback is now set to: true]
+[05May2025 03:19:26.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RIKROSEL: Teleported RIKROSEL to deardam]
+[05May2025 03:19:34.228] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:swamp took 454 ms
+[05May2025 03:19:37.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Teleported Elielmvz to 672.500000, -47.000000, -770.500000]
+[05May2025 03:19:48.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Teleported Elielmvz to 672.500000, 120.000000, -770.500000]
+[05May2025 03:20:38.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Teleported Elielmvz to deardam]
