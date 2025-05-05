@@ -4756,6 +4756,12 @@
     },
     "done": true
   },
+  "farm_and_charm:main/place_roaster": {
+    "criteria": {
+      "roaster": "2025-05-05 01:01:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cherry_fence": {
     "criteria": {
       "has_planks": "2025-05-04 23:47:23 +0000"
@@ -4777,6 +4783,12 @@
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_chestplate": "2025-05-04 23:30:31 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:main/place_cooking_pot": {
+    "criteria": {
+      "cooking_pot": "2025-05-05 00:59:06 +0000"
     },
     "done": true
   },
@@ -4876,6 +4888,12 @@
     },
     "done": true
   },
+  "farm_and_charm:main/place_water_sprinkler": {
+    "criteria": {
+      "water_sprinkler": "2025-05-05 00:59:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/cherry_fence_gate": {
     "criteria": {
       "has_planks": "2025-05-04 23:47:23 +0000"
@@ -4923,6 +4941,16 @@
       "has_cherry_planks": "2025-05-04 23:47:23 +0000"
     },
     "done": true
+  },
+  "the_bumblezone:music_discs/obtain_all_music_discs": {
+    "criteria": {
+      "obtain_music_disc_a_last_first_last": "2025-05-05 01:02:43 +0000",
+      "obtain_music_disc_bee_laxing_with_the_hom_bees": "2025-05-05 01:02:39 +0000",
+      "obtain_music_disc_honey_bee_rat_faced_boy": "2025-05-05 01:02:36 +0000",
+      "obtain_music_disc_life_renren": "2025-05-05 01:04:24 +0000",
+      "obtain_music_disc_flight_of_the_bumblebee_rimsky_korsakov": "2025-05-05 01:02:37 +0000"
+    },
+    "done": false
   },
   "sophisticatedbackpacks:recipes/misc/copper_backpack": {
     "criteria": {
