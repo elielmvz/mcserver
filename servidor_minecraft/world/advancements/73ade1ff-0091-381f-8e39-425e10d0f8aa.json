@@ -1905,7 +1905,8 @@
       "minecraft:spider": "2025-05-03 19:36:14 +0000",
       "minecraft:creeper": "2025-05-04 20:49:12 +0000",
       "minecraft:stray": "2025-05-03 20:11:14 +0000",
-      "minecraft:zombie": "2025-05-03 20:06:50 +0000"
+      "minecraft:zombie": "2025-05-03 20:06:50 +0000",
+      "minecraft:drowned": "2025-05-05 03:40:53 +0000"
     },
     "done": false
   },
@@ -4651,7 +4652,8 @@
   },
   "minecraft:husbandry/complete_catalogue": {
     "criteria": {
-      "minecraft:tabby": "2025-05-05 03:31:04 +0000"
+      "minecraft:tabby": "2025-05-05 03:31:04 +0000",
+      "minecraft:jellie": "2025-05-05 03:39:03 +0000"
     },
     "done": false
   },

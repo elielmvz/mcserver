@@ -339,3 +339,18 @@
 [05May2025 03:40:17.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Teleported Elielmvz to deardam]
 [05May2025 03:40:32.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RIKROSEL: Teleported RIKROSEL to deardam]
 [05May2025 03:41:42.835] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL moved too quickly! -4.656637730947523,-7.4604474624977755,-5.546995552224644
+[05May2025 03:42:42.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [deardam: Teleported deardam to -945.500000, 65.500000, -1950.500000]
+[05May2025 03:43:04.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [deardam: Teleported deardam to -1022.500000, 75.500000, -2100.500000]
+[05May2025 03:43:19.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [deardam: Teleported deardam to -1171.500000, 67.500000, -2158.500000]
+[05May2025 03:43:29.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [deardam: Teleported deardam to -649.500000, 80.500000, 809.500000]
+[05May2025 03:44:55.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [deardam: Teleported deardam to -187.500000, 106.500000, 2529.500000]
+[05May2025 03:47:14.902] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL moved too quickly! 1.4620897334323217,0.0,10.151941433107595
+[05May2025 03:47:25.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Teleported Elielmvz to -197.500000, 104.500000, 2502.500000]
+[05May2025 03:47:29.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RIKROSEL: Teleported RIKROSEL to Elielmvz]
+[05May2025 03:48:40.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Gave 1 [Cat Spawn Egg] to Elielmvz]
+[05May2025 03:49:20.783] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: deardam lost connection: Disconnected
+[05May2025 03:49:20.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: deardam left the game
+[05May2025 03:50:15.886] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL moved too quickly! 4.053194661801115,-1.0,-9.122792334741916
+[05May2025 03:50:27.988] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL moved too quickly! -5.971522986963691,1.0,8.04083492547852
+[05May2025 03:51:33.366] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL moved too quickly! 4.686934007809214,-1.7531999805212024,-8.716840236758344
+[05May2025 03:51:46.368] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL moved too quickly! -10.078289585328037,0.23152379758701613,0.2542634093920242
