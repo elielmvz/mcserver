@@ -5322,3 +5322,19 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:color_essence'
 [05May2025 00:48:35.751] [Netty Epoll Server IO #5/DEBUG] [emotecraft/]: [emotes server] Received data from: 5e5142eb-0a9e-39f5-9d8b-c7035eef1ac8 data: NetData{purpose=STOP, threshold=8.0, stopEmoteID=01a53a42-2fd2-418c-8e46-e4ee1ff9ee6a, emoteData=null, startingAt=0, player=null}
 [05May2025 00:48:36.584] [Netty Epoll Server IO #5/DEBUG] [emotecraft/]: [emotes server] Received data from: 5e5142eb-0a9e-39f5-9d8b-c7035eef1ac8 data: NetData{purpose=STREAM, threshold=8.0, stopEmoteID=null, emoteData=KeyframeAnimation{uuid=01a53a42-2fd2-418c-8e46-e4ee1ff9ee6a, length=61, extra={valid=true}}, startingAt=0, player=null}
 [05May2025 00:48:43.253] [Netty Epoll Server IO #5/DEBUG] [emotecraft/]: [emotes server] Received data from: 5e5142eb-0a9e-39f5-9d8b-c7035eef1ac8 data: NetData{purpose=STOP, threshold=8.0, stopEmoteID=01a53a42-2fd2-418c-8e46-e4ee1ff9ee6a, emoteData=null, startingAt=0, player=null}
+[05May2025 00:49:45.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RIKROSEL: Set own game mode to Creative Mode]
+[05May2025 00:50:11.048] [Server thread/DEBUG] [mezz.jei.common.network.packets.PacketDeletePlayerItem/]: Player 'literal{Elielmvz} (5e5142eb-0a9e-39f5-9d8b-c7035eef1ac8)' tried to delete Item 'advanced_pickup_upgrade' but is currently holding a different ItemStack 'translation{key='chat.square_brackets', args=[empty[siblings=[translation{key='block.minecraft.air', args=[]}]]]}'.
+[05May2025 00:50:12.472] [Server thread/DEBUG] [mezz.jei.common.network.packets.PacketDeletePlayerItem/]: Player 'literal{Elielmvz} (5e5142eb-0a9e-39f5-9d8b-c7035eef1ac8)' tried to delete Item 'advanced_pickup_upgrade' but is currently holding a different ItemStack 'translation{key='chat.square_brackets', args=[empty[siblings=[translation{key='block.minecraft.air', args=[]}]]]}'.
+[05May2025 00:53:07.412] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05May2025 00:53:07.421] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05May2025 00:56:24.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RIKROSEL: Set own game mode to Survival Mode]
+[05May2025 00:56:29.319] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elielmvz moved too quickly! 8.871779113583187,-3.5,-6.817984118030836
+[05May2025 00:56:44.618] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL moved wrongly!
+[05May2025 00:56:52.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Set own game mode to Survival Mode]
+[05May2025 00:57:06.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Gave 1 [Warp Scroll] to Elielmvz]
+[05May2025 00:57:07.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Gave 1 [Warp Scroll] to Elielmvz]
+[05May2025 00:57:07.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Gave 62 [Warp Scroll] to Elielmvz]
+[05May2025 00:58:07.410] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05May2025 00:58:07.418] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05May2025 00:59:04.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Gave 1 [Cooking Pot] to Elielmvz]
+[05May2025 00:59:06.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elielmvz has made the advancement [Potluck Preparations]

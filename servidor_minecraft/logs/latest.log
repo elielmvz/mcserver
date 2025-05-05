@@ -39,3 +39,13 @@
 [05May2025 00:45:38.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Gave 1 [Everlasting Upgrade] to Elielmvz]
 [05May2025 00:45:58.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Gave 1 [Stack Upgrade Tier 4] to Elielmvz]
 [05May2025 00:46:04.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Gave 1 [Stack Upgrade Tier 4] to Elielmvz]
+[05May2025 00:49:45.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RIKROSEL: Set own game mode to Creative Mode]
+[05May2025 00:56:24.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RIKROSEL: Set own game mode to Survival Mode]
+[05May2025 00:56:29.319] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elielmvz moved too quickly! 8.871779113583187,-3.5,-6.817984118030836
+[05May2025 00:56:44.618] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL moved wrongly!
+[05May2025 00:56:52.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Set own game mode to Survival Mode]
+[05May2025 00:57:06.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Gave 1 [Warp Scroll] to Elielmvz]
+[05May2025 00:57:07.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Gave 1 [Warp Scroll] to Elielmvz]
+[05May2025 00:57:07.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Gave 62 [Warp Scroll] to Elielmvz]
+[05May2025 00:59:04.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Gave 1 [Cooking Pot] to Elielmvz]
+[05May2025 00:59:06.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elielmvz has made the advancement [Potluck Preparations]
