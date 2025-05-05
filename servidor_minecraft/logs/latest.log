@@ -381,3 +381,5 @@
 [05May2025 04:06:45.985] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL moved too quickly! 9.878806195871448,2.1434688712351146,0.6705853033471385
 [05May2025 04:11:21.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RIKROSEL: Set own game mode to Creative Mode]
 [05May2025 04:11:22.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Gave 64 [Amethyst Shard] to Elielmvz]
+[05May2025 04:18:30.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Set the time to 1000]
+[05May2025 04:20:42.680] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elielmvz moved too quickly! -7.022691431347539,3.3716331880620487,6.824713896100775
