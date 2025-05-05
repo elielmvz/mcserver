@@ -252,3 +252,90 @@
 [05May2025 03:19:37.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Teleported Elielmvz to 672.500000, -47.000000, -770.500000]
 [05May2025 03:19:48.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Teleported Elielmvz to 672.500000, 120.000000, -770.500000]
 [05May2025 03:20:38.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Teleported Elielmvz to deardam]
+[05May2025 03:21:21.608] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:swamp took 737 ms
+[05May2025 03:21:26.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Gamerule sendCommandFeedback is now set to: false]
+[05May2025 03:21:56.035] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL lost connection: Disconnected
+[05May2025 03:21:56.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIKROSEL left the game
+[05May2025 03:22:15.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [deardam: Teleported deardam to -365.500000, 79.500000, -1161.500000]
+[05May2025 03:22:30.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [deardam: Teleported deardam to -202.500000, 79.500000, -1172.500000]
+[05May2025 03:22:42.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [deardam: Teleported deardam to -386.500000, 64.500000, -1326.500000]
+[05May2025 03:22:57.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [deardam: Teleported deardam to -555.500000, 65.500000, -1312.500000]
+[05May2025 03:23:03.804] [ForkJoinPool.commonPool-worker-23/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[05May2025 03:23:03.835] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RIKROSEL[/127.161.242.107:35887] logged in with entity id 70505 at (-356.63506590048223, 63.0, -995.7105556679566)
+[05May2025 03:23:03.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIKROSEL joined the game
+[05May2025 03:23:08.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [deardam: Teleported deardam to -659.500000, 67.500000, -1232.500000]
+[05May2025 03:24:10.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Teleported Elielmvz to deardam]
+[05May2025 03:24:24.596] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL lost connection: Disconnected
+[05May2025 03:24:24.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIKROSEL left the game
+[05May2025 03:25:32.712] [ForkJoinPool.commonPool-worker-25/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[05May2025 03:25:32.795] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RIKROSEL[/127.161.242.107:45399] logged in with entity id 71747 at (-358.08810045887554, 64.0, -992.4328922084034)
+[05May2025 03:25:32.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIKROSEL joined the game
+[05May2025 03:25:54.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Gave 1 [Cat Spawn Egg] to Elielmvz]
+[05May2025 03:25:59.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Teleported Elielmvz to RIKROSEL]
+[05May2025 03:26:53.497] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL lost connection: Disconnected
+[05May2025 03:26:53.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIKROSEL left the game
+[05May2025 03:26:55.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [deardam: Teleported deardam to Elielmvz]
+[05May2025 03:28:42.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Gave 1 [Raw Cod] to Elielmvz]
+[05May2025 03:28:42.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Gave 1 [Raw Cod] to Elielmvz]
+[05May2025 03:28:42.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Gave 1 [Raw Cod] to Elielmvz]
+[05May2025 03:28:42.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Gave 1 [Raw Cod] to Elielmvz]
+[05May2025 03:28:42.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Gave 1 [Raw Cod] to Elielmvz]
+[05May2025 03:28:42.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Gave 1 [Raw Cod] to Elielmvz]
+[05May2025 03:28:42.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Gave 1 [Raw Cod] to Elielmvz]
+[05May2025 03:28:42.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Gave 1 [Raw Cod] to Elielmvz]
+[05May2025 03:28:42.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Gave 1 [Raw Cod] to Elielmvz]
+[05May2025 03:28:43.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Gave 1 [Raw Cod] to Elielmvz]
+[05May2025 03:28:43.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Gave 1 [Raw Cod] to Elielmvz]
+[05May2025 03:28:43.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Gave 1 [Raw Cod] to Elielmvz]
+[05May2025 03:28:43.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Gave 1 [Raw Cod] to Elielmvz]
+[05May2025 03:28:43.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Gave 1 [Raw Cod] to Elielmvz]
+[05May2025 03:28:43.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Gave 1 [Raw Cod] to Elielmvz]
+[05May2025 03:28:43.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Gave 1 [Raw Cod] to Elielmvz]
+[05May2025 03:28:47.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Gave 1 [Cooked Cod] to Elielmvz]
+[05May2025 03:28:47.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Gave 1 [Cooked Cod] to Elielmvz]
+[05May2025 03:28:47.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Gave 1 [Cooked Cod] to Elielmvz]
+[05May2025 03:28:47.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Gave 1 [Cooked Cod] to Elielmvz]
+[05May2025 03:28:47.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Gave 1 [Cooked Cod] to Elielmvz]
+[05May2025 03:28:47.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Gave 1 [Cooked Cod] to Elielmvz]
+[05May2025 03:28:47.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Gave 1 [Cooked Cod] to Elielmvz]
+[05May2025 03:28:48.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Gave 1 [Cooked Cod] to Elielmvz]
+[05May2025 03:28:48.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Gave 1 [Cooked Cod] to Elielmvz]
+[05May2025 03:28:48.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Gave 1 [Cooked Cod] to Elielmvz]
+[05May2025 03:28:48.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Gave 1 [Cooked Cod] to Elielmvz]
+[05May2025 03:28:48.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Gave 1 [Cooked Cod] to Elielmvz]
+[05May2025 03:28:48.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Gave 1 [Cooked Cod] to Elielmvz]
+[05May2025 03:28:48.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Gave 1 [Cooked Cod] to Elielmvz]
+[05May2025 03:29:30.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: deardam has made the advancement [Mariachi?]
+[05May2025 03:29:50.208] [ForkJoinPool.commonPool-worker-27/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[05May2025 03:29:50.246] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RIKROSEL[/127.161.242.107:43075] logged in with entity id 72721 at (-356.61344227250834, 63.0, -985.4241215580304)
+[05May2025 03:29:50.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIKROSEL joined the game
+[05May2025 03:31:04.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIKROSEL has made the advancement [Best Friends Forever]
+[05May2025 03:32:35.589] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL moved too quickly! 9.152356736654383,-1.1451067006516382,-4.056095858228787
+[05May2025 03:34:16.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Gave 1 [Potion of Feminity] to Elielmvz]
+[05May2025 03:34:19.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Gave 1 [Potion of Masculinity] to Elielmvz]
+[05May2025 03:34:27.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Gave 1 [Potion of Feminity] to Elielmvz]
+[05May2025 03:34:46.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Gave 1 [Potion of Feminity] to Elielmvz]
+[05May2025 03:34:54.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Gave 1 [Potion of Feminity] to Elielmvz]
+[05May2025 03:34:55.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Gave 1 [Potion of Masculinity] to Elielmvz]
+[05May2025 03:35:20.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Gave 1 [Splash Potion of Neurotoxin] to Elielmvz]
+[05May2025 03:35:28.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Gave 1 [Splash Potion of Neurotoxin] to Elielmvz]
+[05May2025 03:35:50.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Gave 1 [Splash Potion of Blasting] to Elielmvz]
+[05May2025 03:36:01.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Gave 1 [Splash Potion of Blasting] to Elielmvz]
+[05May2025 03:36:22.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Gave 1 [Splash Potion of Bug Pheromones] to Elielmvz]
+[05May2025 03:37:01.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Gave 1 [Lingering Potion of Freezing] to Elielmvz]
+[05May2025 03:37:06.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [deardam: Teleported deardam to -667.500000, 70.500000, -1444.500000]
+[05May2025 03:37:09.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Gave 1 [Lingering Potion of Freezing] to Elielmvz]
+[05May2025 03:37:17.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [deardam: Teleported deardam to -797.500000, 66.500000, -1536.500000]
+[05May2025 03:37:26.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [deardam: Teleported deardam to -891.500000, 75.500000, -1469.500000]
+[05May2025 03:37:36.351] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL moved too quickly! 9.032873717859786,1.0,-4.767890643220653
+[05May2025 03:37:38.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Gave 1 [Lingering Potion of Neurotoxin] to Elielmvz]
+[05May2025 03:38:12.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Teleported Elielmvz to deardam]
+[05May2025 03:38:15.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RIKROSEL: Teleported RIKROSEL to deardam]
+[05May2025 03:39:20.974] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL moved too quickly! 9.048835309197557,-1.7967356006687112,-4.24519532937893
+[05May2025 03:39:28.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [deardam: Teleported deardam to -831.500000, 64.500000, -1695.500000]
+[05May2025 03:39:38.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [deardam: Teleported deardam to -928.500000, 86.500000, -1823.500000]
+[05May2025 03:39:53.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [deardam: Teleported deardam to -905.500000, 63.500000, -1908.500000]
+[05May2025 03:40:13.248] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL moved too quickly! -3.3825015937179614,0.0,-9.511828135332507
+[05May2025 03:40:17.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Teleported Elielmvz to deardam]
+[05May2025 03:40:32.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RIKROSEL: Teleported RIKROSEL to deardam]
+[05May2025 03:41:42.835] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL moved too quickly! -4.656637730947523,-7.4604474624977755,-5.546995552224644
