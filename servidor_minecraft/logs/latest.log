@@ -168,3 +168,7 @@
 [05May2025 02:14:38.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RIKROSEL> piedra
 [05May2025 02:14:39.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elielmvz> tijera
 [05May2025 02:23:49.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Set own game mode to Survival Mode]
+[05May2025 02:43:09.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RIKROSEL: Set own game mode to Survival Mode]
+[05May2025 02:43:37.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RIKROSEL: Set the time to 1000]
+[05May2025 02:44:28.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [deardam: Teleported deardam to Elielmvz]
+[05May2025 02:45:50.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Teleported Elielmvz to RIKROSEL]
