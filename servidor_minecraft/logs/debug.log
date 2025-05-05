@@ -7997,3 +7997,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:color_essence'
 [05May2025 02:14:39.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elielmvz> tijera
 [05May2025 02:18:07.416] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [05May2025 02:18:07.426] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05May2025 02:23:07.417] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05May2025 02:23:07.427] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05May2025 02:23:49.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Set own game mode to Survival Mode]
+[05May2025 02:28:07.415] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05May2025 02:28:07.423] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
