@@ -384,3 +384,6 @@
 [05May2025 04:18:30.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Set the time to 1000]
 [05May2025 04:20:42.680] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elielmvz moved too quickly! -7.022691431347539,3.3716331880620487,6.824713896100775
 [05May2025 04:23:10.284] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL moved too quickly! 3.317807912732235,-8.128501922201352,-5.295432105011059
+[05May2025 04:33:33.460] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL moved too quickly! 10.017195906510779,-2.0,-0.9259562703846314
+[05May2025 04:37:28.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elielmvz has made the advancement [Moose Dance]
+[05May2025 04:38:10.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIKROSEL has made the advancement [Moose Dance]
