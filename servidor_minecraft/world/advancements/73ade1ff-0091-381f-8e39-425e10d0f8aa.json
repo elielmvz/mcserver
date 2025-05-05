@@ -4241,5 +4241,41 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wild_armor_trim_smithing_template": {
+    "criteria": {
+      "has_wild_armor_trim_smithing_template": "2025-05-05 00:32:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wild_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-05-05 00:32:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-05-05 00:32:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-05-05 00:32:40 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/strange_fish_finder": {
+    "criteria": {
+      "sopa_de_macaco": "2025-05-05 00:34:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-05-05 00:32:40 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

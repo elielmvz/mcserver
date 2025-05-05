@@ -7,3 +7,7 @@
 [05May2025 00:27:27.699] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RIKROSEL[/127.161.242.107:43603] logged in with entity id 27268 at (-650.5, 68.0, 810.5)
 [05May2025 00:27:27.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIKROSEL joined the game
 [05May2025 00:28:17.844] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL moved too quickly! -0.9846592529577265,-10.979476483542612,-1.0794436216191343
+[05May2025 00:30:51.740] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2718ms or 54 ticks behind
+[05May2025 00:32:40.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIKROSEL has made the advancement [Ice Bucket Challenge]
+[05May2025 00:34:35.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIKROSEL has made the advancement [The Quest for the Best]
+[05May2025 00:38:38.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elielmvz was slain by RIKROSEL.
