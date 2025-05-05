@@ -135,3 +135,12 @@
 [05May2025 01:44:24.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Gave 64 [Dirt] to Elielmvz]
 [05May2025 01:46:13.280] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elielmvz lost connection: Disconnected
 [05May2025 01:46:13.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elielmvz left the game
+[05May2025 01:53:13.541] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Elielmvz[/127.92.5.59:39077] logged in with entity id 44093 at (-194.31576243412033, 104.0, 2486.585466270228)
+[05May2025 01:53:13.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elielmvz joined the game
+[05May2025 01:56:48.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Gave 64 [Grass Block] to Elielmvz]
+[05May2025 01:57:04.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Gave 64 [Bookshelf] to Elielmvz]
+[05May2025 01:59:36.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Gave 1 [Oak Fence] to Elielmvz]
+[05May2025 01:59:52.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Gave 64 [Cherry Fence Gate] to Elielmvz]
+[05May2025 01:59:52.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Gave 64 [Cherry Fence] to Elielmvz]
+[05May2025 01:59:55.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Gave 64 [Cherry Fence] to Elielmvz]
+[05May2025 02:00:04.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Gave 1 [Chest] to Elielmvz]
