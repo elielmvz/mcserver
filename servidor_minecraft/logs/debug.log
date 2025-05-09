@@ -5356,3 +5356,21 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:color_essence'
 [09May2025 03:10:03.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIKROSEL joined the game
 [09May2025 03:10:05.173] [Netty Epoll Server IO #5/DEBUG] [emotecraft/]: [emotes server] Received data from: 73ade1ff-0091-381f-8e39-425e10d0f8aa data: NetData{purpose=CONFIG, threshold=8.0, stopEmoteID=null, emoteData=null, startingAt=0, player=null}
 [09May2025 03:10:55.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RIKROSEL: Set own game mode to Survival Mode]
+[09May2025 03:12:05.271] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09May2025 03:12:05.285] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09May2025 03:16:48.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Teleported Elielmvz to 1173.500000, 60.000000, 1003.500000]
+[09May2025 03:16:55.221] [Worker-Main-2/DEBUG] [mixin/]: Mixing world.WorldGenRegionAccessor from the_bumblezone-common.mixins.json into net.minecraft.server.level.WorldGenRegion
+[09May2025 03:16:56.232] [Worker-Main-2/DEBUG] [mixin/]: Mixing world.NoiseChunkAccessor from the_bumblezone-common.mixins.json into net.minecraft.world.level.levelgen.NoiseChunk
+[09May2025 03:16:56.232] [Worker-Main-2/DEBUG] [mixin/]: Mixing world.NoiseChunkMixin from the_bumblezone-common.mixins.json into net.minecraft.world.level.levelgen.NoiseChunk
+[09May2025 03:16:56.237] [Worker-Main-2/DEBUG] [mixin/]: Renaming synthetic method lambda$injectWrapNew$1()Lnet/minecraft/world/level/biome/Climate$Sampler; to md474f55$lambda$injectWrapNew$1$0 in the_bumblezone-common.mixins.json:world.NoiseChunkMixin
+[09May2025 03:16:56.237] [Worker-Main-2/DEBUG] [mixin/]: Renaming synthetic method lambda$injectWrapNew$0()Lnet/minecraft/world/level/biome/BiomeSource; to md474f55$lambda$injectWrapNew$0$1 in the_bumblezone-common.mixins.json:world.NoiseChunkMixin
+[09May2025 03:16:56.247] [Worker-Main-1/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[09May2025 03:16:56.248] [Worker-Main-1/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[09May2025 03:17:05.314] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09May2025 03:17:05.326] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09May2025 03:17:15.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [deardam: Teleported deardam to Elielmvz]
+[09May2025 03:17:18.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RIKROSEL: Teleported RIKROSEL to Elielmvz]
+[09May2025 03:18:12.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [deardam: Teleported deardam to -202.500000, 104.500000, 2494.500000]
+[09May2025 03:19:29.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RIKROSEL: Teleported RIKROSEL to deardam]
+[09May2025 03:19:44.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: deardam has made the advancement [Dungeon Now Loading]
+[09May2025 03:19:56.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Teleported Elielmvz to RIKROSEL]

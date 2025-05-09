@@ -843,3 +843,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:color_essence'
 [09May2025 03:10:03.288] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RIKROSEL[/127.135.253.57:53723] logged in with entity id 2007 at (-201.7104332183895, 104.5, 2499.300000011921)
 [09May2025 03:10:03.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIKROSEL joined the game
 [09May2025 03:10:55.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RIKROSEL: Set own game mode to Survival Mode]
+[09May2025 03:16:48.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Teleported Elielmvz to 1173.500000, 60.000000, 1003.500000]
+[09May2025 03:17:15.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [deardam: Teleported deardam to Elielmvz]
+[09May2025 03:17:18.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RIKROSEL: Teleported RIKROSEL to Elielmvz]
+[09May2025 03:18:12.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [deardam: Teleported deardam to -202.500000, 104.500000, 2494.500000]
+[09May2025 03:19:29.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RIKROSEL: Teleported RIKROSEL to deardam]
+[09May2025 03:19:44.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: deardam has made the advancement [Dungeon Now Loading]
+[09May2025 03:19:56.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Teleported Elielmvz to RIKROSEL]

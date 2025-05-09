@@ -4640,51 +4640,9 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/novelty_hat": {
-    "criteria": {
-      "sopa_de_macaco": "2025-05-05 05:01:50 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/enderiophage": {
-    "criteria": {
-      "killed_by": "2025-05-05 04:45:22 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/leafcutter_ant_pupa": {
-    "criteria": {
-      "leafcutter_ant_pupa": "2025-05-05 05:07:21 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:ritual_gravity": {
-    "criteria": {
-      "gravity_effect": "2025-05-05 05:15:10 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cooked_cod_from_smoking": {
     "criteria": {
       "has_cod": "2025-05-05 03:30:25 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/rocky_roller": {
-    "criteria": {
-      "killed_by": "2025-05-05 04:46:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
-    "criteria": {
-      "has_pink_tulip": "2025-05-05 04:46:51 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:amethyst_golem_charm": {
-    "criteria": {
-      "has_amethyst_golem_charm": "2025-05-05 05:20:08 +0000"
     },
     "done": true
   },
@@ -4694,57 +4652,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/orange_dye_from_torchflower": {
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
     "criteria": {
-      "has_torchflower": "2025-05-05 04:47:03 +0000"
+      "has_cod": "2025-05-05 03:30:25 +0000"
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/rocky_shell": {
+  "minecraft:recipes/food/cooked_cod": {
     "criteria": {
-      "soul_heart": "2025-05-05 04:48:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-05-05 04:42:52 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:wixie_charm": {
-    "criteria": {
-      "has_wixie_charm": "2025-05-05 05:22:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/red_dye_from_poppy": {
-    "criteria": {
-      "has_poppy": "2025-05-05 04:46:49 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:magebloom_crop": {
-    "criteria": {
-      "has_magebloom_crop": "2025-05-05 05:10:42 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:whirlisprig_charm": {
-    "criteria": {
-      "has_whirlisprig_charm": "2025-05-05 05:10:02 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/sopa_de_macaco": {
-    "criteria": {
-      "sopa_de_macaco": "2025-05-05 05:06:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-05-05 04:42:52 +0000"
+      "has_cod": "2025-05-05 03:30:25 +0000"
     },
     "done": true
   },
@@ -4755,33 +4671,33 @@
     },
     "done": false
   },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-05-05 04:42:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
-    "criteria": {
-      "has_white_tulip": "2025-05-05 04:46:51 +0000"
-    },
-    "done": true
-  },
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2025-05-05 03:31:04 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
+  "ars_nouveau:drygmy_charm": {
     "criteria": {
-      "has_lily_of_the_valley": "2025-05-05 04:47:19 +0000"
+      "has_drygmy_charm": "2025-05-05 04:38:10 +0000"
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/tame_flutter": {
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
     "criteria": {
-      "tame": "2025-05-05 04:47:20 +0000"
+      "has_mossy_cobblestone": "2025-05-05 04:42:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-05-05 04:42:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-05-05 04:42:52 +0000"
     },
     "done": true
   },
@@ -4797,9 +4713,51 @@
     },
     "done": true
   },
-  "ars_nouveau:starby_charm": {
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
     "criteria": {
-      "has_starbuncle_charm": "2025-05-05 05:21:37 +0000"
+      "has_mossy_cobblestone": "2025-05-05 04:42:52 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/enderiophage": {
+    "criteria": {
+      "killed_by": "2025-05-05 04:45:22 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/rocky_roller": {
+    "criteria": {
+      "killed_by": "2025-05-05 04:46:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-05-05 04:46:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
+    "criteria": {
+      "has_pink_tulip": "2025-05-05 04:46:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
+    "criteria": {
+      "has_white_tulip": "2025-05-05 04:46:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_torchflower": {
+    "criteria": {
+      "has_torchflower": "2025-05-05 04:47:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_lily_of_the_valley": "2025-05-05 04:47:19 +0000"
     },
     "done": true
   },
@@ -4809,9 +4767,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+  "alexsmobs:alexsmobs/tame_flutter": {
     "criteria": {
-      "has_cod": "2025-05-05 03:30:25 +0000"
+      "tame": "2025-05-05 04:47:20 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/rocky_shell": {
+    "criteria": {
+      "soul_heart": "2025-05-05 04:48:04 +0000"
     },
     "done": true
   },
@@ -4821,21 +4785,57 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_cod": {
+  "alexsmobs:alexsmobs/novelty_hat": {
     "criteria": {
-      "has_cod": "2025-05-05 03:30:25 +0000"
+      "sopa_de_macaco": "2025-05-05 05:01:50 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+  "alexsmobs:alexsmobs/sopa_de_macaco": {
     "criteria": {
-      "has_mossy_cobblestone": "2025-05-05 04:42:52 +0000"
+      "sopa_de_macaco": "2025-05-05 05:06:38 +0000"
     },
     "done": true
   },
-  "ars_nouveau:drygmy_charm": {
+  "alexsmobs:alexsmobs/leafcutter_ant_pupa": {
     "criteria": {
-      "has_drygmy_charm": "2025-05-05 04:38:10 +0000"
+      "leafcutter_ant_pupa": "2025-05-05 05:07:21 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:whirlisprig_charm": {
+    "criteria": {
+      "has_whirlisprig_charm": "2025-05-05 05:10:02 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:magebloom_crop": {
+    "criteria": {
+      "has_magebloom_crop": "2025-05-05 05:10:42 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:ritual_gravity": {
+    "criteria": {
+      "gravity_effect": "2025-05-05 05:15:10 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:amethyst_golem_charm": {
+    "criteria": {
+      "has_amethyst_golem_charm": "2025-05-05 05:20:08 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:starby_charm": {
+    "criteria": {
+      "has_starbuncle_charm": "2025-05-05 05:21:37 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:wixie_charm": {
+    "criteria": {
+      "has_wixie_charm": "2025-05-05 05:22:38 +0000"
     },
     "done": true
   },
