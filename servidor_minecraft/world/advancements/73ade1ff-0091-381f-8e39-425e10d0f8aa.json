@@ -4936,6 +4936,12 @@
     },
     "done": true
   },
+  "dungeonnowloading:story/root": {
+    "criteria": {
+      "obtain_crafting_table": "2025-05-09 03:56:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2025-05-09 03:48:50 +0000"

@@ -921,3 +921,17 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:color_essence'
 [09May2025 03:52:17.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elielmvz was obliterated by a sonically-charged shriek
 [09May2025 03:52:19.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Teleported Elielmvz to RIKROSEL]
 [09May2025 03:52:20.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIKROSEL was slain by Warden
+[09May2025 03:52:26.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RIKROSEL: Teleported RIKROSEL to Elielmvz]
+[09May2025 03:54:34.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RIKROSEL: Teleported RIKROSEL to Elielmvz]
+[09May2025 03:54:52.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIKROSEL was obliterated by a sonically-charged shriek
+[09May2025 03:55:26.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Teleported Elielmvz to -197.500000, 104.500000, 2502.500000]
+[09May2025 03:55:30.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RIKROSEL: Teleported RIKROSEL to deardam]
+[09May2025 03:55:53.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RIKROSEL: Teleported RIKROSEL to Elielmvz]
+[09May2025 03:56:40.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIKROSEL has made the advancement [Dungeon Now Loading]
+[09May2025 03:57:40.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Teleported Elielmvz to deardam]
+[09May2025 03:57:41.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RIKROSEL: Teleported RIKROSEL to deardam]
+[09May2025 03:58:31.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [deardam: Teleported deardam to -409.500000, 17.500000, 2990.500000]
+[09May2025 03:58:44.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [deardam: Teleported deardam to -202.500000, 104.500000, 2494.500000]
+[09May2025 03:59:31.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RIKROSEL: Teleported RIKROSEL to deardam]
+[09May2025 04:01:30.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [deardam: Teleported deardam to Elielmvz]
+[09May2025 04:02:28.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elielmvz has made the advancement [Simple Dungeon Room]
