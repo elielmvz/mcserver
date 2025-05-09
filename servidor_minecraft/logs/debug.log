@@ -5426,3 +5426,37 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:color_essence'
 [09May2025 03:39:50.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Teleported Elielmvz to deardam]
 [09May2025 03:40:38.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Teleported Elielmvz to RIKROSEL]
 [09May2025 03:40:52.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elielmvz has made the advancement [Dungeon Now Loading]
+[09May2025 03:42:05.279] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09May2025 03:42:05.289] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09May2025 03:42:46.052] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:stronghold_biased_to (minecraft:forest) took 10 ms
+[09May2025 03:44:45.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Teleported Elielmvz to -149.995000, -41.000000, 2431.500000]
+[09May2025 03:44:51.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RIKROSEL: Teleported RIKROSEL to Elielmvz]
+[09May2025 03:45:40.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RIKROSEL: Teleported RIKROSEL to deardam]
+[09May2025 03:47:05.286] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09May2025 03:47:05.297] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09May2025 03:47:49.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <deardam> tienes mesa de crafteo?
+[09May2025 03:48:02.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RIKROSEL> no
+[09May2025 03:48:17.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <deardam> ok
+[09May2025 03:48:32.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [deardam: Teleported deardam to -202.500000, 104.500000, 2494.500000]
+[09May2025 03:48:54.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elielmvz has made the advancement [Sneak 100]
+[09May2025 03:49:02.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RIKROSEL: Teleported RIKROSEL to Elielmvz]
+[09May2025 03:49:17.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIKROSEL has made the advancement [Sneak 100]
+[09May2025 03:49:38.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [deardam: Teleported deardam to -205.500000, 69.500000, 3635.500000]
+[09May2025 03:50:09.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [deardam: Teleported deardam to -410.500000, 117.500000, 2834.500000]
+[09May2025 03:50:14.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elielmvz was slain by Warden
+[09May2025 03:50:20.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Teleported Elielmvz to RIKROSEL]
+[09May2025 03:50:26.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RIKROSEL: Teleported RIKROSEL to Elielmvz]
+[09May2025 03:50:34.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [deardam: Teleported deardam to -409.500000, 17.500000, 2990.500000]
+[09May2025 03:51:12.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elielmvz was obliterated by a sonically-charged shriek
+[09May2025 03:51:17.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Teleported Elielmvz to RIKROSEL]
+[09May2025 03:51:19.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIKROSEL was slain by Warden
+[09May2025 03:51:30.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RIKROSEL: Teleported RIKROSEL to Elielmvz]
+[09May2025 03:51:53.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elielmvz was obliterated by a sonically-charged shriek
+[09May2025 03:51:55.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Teleported Elielmvz to RIKROSEL]
+[09May2025 03:52:02.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIKROSEL was slain by Warden
+[09May2025 03:52:05.282] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09May2025 03:52:05.292] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09May2025 03:52:09.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RIKROSEL: Teleported RIKROSEL to Elielmvz]
+[09May2025 03:52:17.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elielmvz was obliterated by a sonically-charged shriek
+[09May2025 03:52:19.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Teleported Elielmvz to RIKROSEL]
+[09May2025 03:52:20.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIKROSEL was slain by Warden
