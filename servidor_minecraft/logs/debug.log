@@ -5511,3 +5511,17 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:color_essence'
 [09May2025 04:11:35.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elielmvz has completed the challenge [It Spreads]
 [09May2025 04:12:05.274] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [09May2025 04:12:05.282] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09May2025 04:13:31.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [deardam: Teleported deardam to -202.500000, 104.500000, 2494.500000]
+[09May2025 04:14:38.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [deardam: Teleported deardam to Elielmvz]
+[09May2025 04:15:08.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIKROSEL has made the advancement [Local Brewery]
+[09May2025 04:15:47.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elielmvz was spiked to death
+[09May2025 04:15:59.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Teleported Elielmvz to RIKROSEL]
+[09May2025 04:17:05.278] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09May2025 04:17:05.289] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09May2025 04:18:17.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elielmvz was spiked to death
+[09May2025 04:18:23.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Teleported Elielmvz to RIKROSEL]
+[09May2025 04:21:00.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: deardam has made the advancement [Sneak 100]
+[09May2025 04:21:29.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [deardam: Teleported deardam to -1558.500000, -53.500000, 2737.500000]
+[09May2025 04:22:05.270] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09May2025 04:22:05.280] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09May2025 04:22:42.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [deardam: Teleported deardam to -1383.500000, -59.500000, 2796.500000]
