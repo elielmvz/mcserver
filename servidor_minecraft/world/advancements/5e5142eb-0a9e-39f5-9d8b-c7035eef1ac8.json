@@ -1714,6 +1714,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2025-05-09 03:25:59 +0000",
       "minecraft:frozen_river": "2025-05-03 19:16:11 +0000",
       "minecraft:cherry_grove": "2025-05-04 03:23:05 +0000",
       "minecraft:sunflower_plains": "2025-05-04 04:39:21 +0000",
@@ -1967,8 +1968,10 @@
       "cooked_beef": "2025-05-04 03:43:34 +0000",
       "baked_potato": "2025-05-04 03:37:47 +0000",
       "apple": "2025-05-04 03:35:20 +0000",
+      "cooked_cod": "2025-05-09 03:17:31 +0000",
       "bread": "2025-05-04 03:31:30 +0000",
       "beetroot": "2025-05-04 04:43:42 +0000",
+      "golden_carrot": "2025-05-09 03:28:43 +0000",
       "cooked_chicken": "2025-05-04 03:41:01 +0000",
       "enchanted_golden_apple": "2025-05-03 19:31:53 +0000"
     },
@@ -5415,6 +5418,30 @@
   "ars_nouveau:summon_focus": {
     "criteria": {
       "has_summon_focus": "2025-05-05 05:18:37 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_rich_soil": {
+    "criteria": {
+      "get_rich_soil": "2025-05-09 03:22:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-05-09 03:18:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-05-09 03:18:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-05-09 03:18:13 +0000"
     },
     "done": true
   },

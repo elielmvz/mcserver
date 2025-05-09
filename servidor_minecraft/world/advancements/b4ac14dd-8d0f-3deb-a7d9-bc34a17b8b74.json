@@ -1716,6 +1716,7 @@
     "criteria": {
       "minecraft:frozen_river": "2025-05-04 03:20:57 +0000",
       "minecraft:cherry_grove": "2025-05-04 03:23:46 +0000",
+      "minecraft:sunflower_plains": "2025-05-09 03:26:03 +0000",
       "minecraft:birch_forest": "2025-05-04 04:05:43 +0000",
       "minecraft:bamboo_jungle": "2025-05-05 03:08:11 +0000",
       "minecraft:savanna_plateau": "2025-05-05 01:31:47 +0000",
@@ -1724,11 +1725,14 @@
       "minecraft:sparse_jungle": "2025-05-05 01:31:43 +0000",
       "minecraft:river": "2025-05-04 04:18:23 +0000",
       "minecraft:snowy_plains": "2025-05-04 03:16:07 +0000",
+      "minecraft:stony_shore": "2025-05-09 03:34:01 +0000",
       "minecraft:dripstone_caves": "2025-05-04 03:48:25 +0000",
+      "minecraft:snowy_taiga": "2025-05-09 03:33:17 +0000",
       "minecraft:forest": "2025-05-04 03:49:34 +0000",
       "minecraft:desert": "2025-05-05 03:07:06 +0000",
       "minecraft:jungle": "2025-05-04 03:14:10 +0000",
       "minecraft:ocean": "2025-05-05 03:39:54 +0000",
+      "minecraft:flower_forest": "2025-05-09 03:26:13 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-04 04:09:36 +0000",
       "minecraft:meadow": "2025-05-04 03:23:42 +0000",
       "minecraft:savanna": "2025-05-04 05:18:37 +0000",
@@ -4562,6 +4566,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-05-09 03:35:52 +0000"
+    },
+    "done": true
+  },
   "celestisynth:recipes/misc/celestial_core": {
     "criteria": {
       "has_item": "2025-05-09 03:06:43 +0000"
@@ -4571,6 +4581,12 @@
   "minecraft:recipes/tools/spyglass": {
     "criteria": {
       "has_amethyst_shard": "2025-05-09 03:06:43 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:story/root": {
+    "criteria": {
+      "obtain_crafting_table": "2025-05-09 03:19:44 +0000"
     },
     "done": true
   },
@@ -4586,9 +4602,39 @@
     },
     "done": true
   },
+  "dungeonnowloading:recipes/combat/explosive_barrel": {
+    "criteria": {
+      "has_gunpowder": "2025-05-09 03:35:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2025-05-09 03:30:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/amethyst_block": {
     "criteria": {
       "has_amethyst_shard": "2025-05-09 03:06:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-05-09 03:19:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-05-09 03:35:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-05-09 03:35:47 +0000"
     },
     "done": true
   },
