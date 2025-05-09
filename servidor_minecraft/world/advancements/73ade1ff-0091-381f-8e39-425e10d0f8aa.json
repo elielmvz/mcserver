@@ -2681,7 +2681,8 @@
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "onion": "2025-05-04 03:21:45 +0000",
-      "potato": "2025-05-04 03:22:12 +0000"
+      "potato": "2025-05-04 03:22:12 +0000",
+      "wheat": "2025-05-09 04:51:53 +0000"
     },
     "done": false
   },
@@ -5351,9 +5352,21 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/stomp_leafcutter_anthill": {
+    "criteria": {
+      "ex": "2025-05-09 04:48:52 +0000"
+    },
+    "done": true
+  },
   "dungeonnowloading:recipes/misc/spawner_frame": {
     "criteria": {
       "has_spawner_fragment": "2025-05-09 04:41:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-05-09 04:51:53 +0000"
     },
     "done": true
   },

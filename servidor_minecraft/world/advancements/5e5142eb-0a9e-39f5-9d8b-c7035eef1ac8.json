@@ -1973,7 +1973,8 @@
       "beetroot": "2025-05-04 04:43:42 +0000",
       "golden_carrot": "2025-05-09 03:28:43 +0000",
       "cooked_chicken": "2025-05-04 03:41:01 +0000",
-      "enchanted_golden_apple": "2025-05-03 19:31:53 +0000"
+      "enchanted_golden_apple": "2025-05-03 19:31:53 +0000",
+      "cooked_salmon": "2025-05-09 04:42:36 +0000"
     },
     "done": false
   },
@@ -5610,6 +5611,12 @@
   "dungeonnowloading:recipes/combat/explosive_barrel": {
     "criteria": {
       "has_gunpowder": "2025-05-09 04:14:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-05-09 04:45:06 +0000"
     },
     "done": true
   },
