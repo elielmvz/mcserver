@@ -1047,3 +1047,52 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:color_essence'
 [09May2025 04:59:53.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Applied effect Saturation to 3 targets]
 [09May2025 05:02:54.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Applied effect Saturation to 3 targets]
 [09May2025 05:03:19.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Teleported Elielmvz to deardam]
+[09May2025 05:04:09.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: deardam fell from a high place
+[09May2025 05:04:14.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [deardam: Teleported deardam to Elielmvz]
+[09May2025 05:05:49.814] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL moved too quickly! 9.760487371848967,0.0,2.2582974819010815
+[09May2025 05:06:21.734] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL moved too quickly! -3.01485974023376,2.0,-9.526916924032776
+[09May2025 05:07:04.923] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL lost connection: Timed out
+[09May2025 05:07:04.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIKROSEL left the game
+[09May2025 05:07:10.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [deardam: Teleported deardam to Elielmvz]
+[09May2025 05:08:02.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [deardam: Teleported deardam to -202.500000, 104.500000, 2494.500000]
+[09May2025 05:08:35.528] [ForkJoinPool.commonPool-worker-10/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[09May2025 05:08:35.543] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RIKROSEL[/127.135.253.57:55691] logged in with entity id 52426 at (-591.7056920040059, -51.0, 3199.893433702868)
+[09May2025 05:08:35.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIKROSEL joined the game
+[09May2025 05:08:57.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [deardam: Teleported deardam to -6.500000, 66.500000, 3981.500000]
+[09May2025 05:09:00.685] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL was kicked for floating too long!
+[09May2025 05:09:00.743] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL lost connection: Flying is not enabled on this server
+[09May2025 05:09:00.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIKROSEL left the game
+[09May2025 05:09:15.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [deardam: Teleported deardam to -22.500000, 66.500000, 4142.500000]
+[09May2025 05:09:25.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [deardam: Teleported deardam to 76.500000, 90.500000, 4195.500000]
+[09May2025 05:10:06.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [deardam: Teleported deardam to 34.500000, 68.500000, 4370.500000]
+[09May2025 05:10:16.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [deardam: Teleported deardam to 131.500000, 35.500000, 4486.500000]
+[09May2025 05:10:27.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [deardam: Teleported deardam to 262.500000, 63.500000, 4578.500000]
+[09May2025 05:10:31.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [deardam: Teleported deardam to 103.500000, 73.500000, 4629.500000]
+[09May2025 05:11:19.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [deardam: Teleported deardam to 207.500000, 89.500000, 4733.500000]
+[09May2025 05:11:59.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [deardam: Teleported deardam to 212.500000, 62.500000, 4716.500000]
+[09May2025 05:12:04.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [deardam: Teleported deardam to 260.500000, 64.500000, 4636.500000]
+[09May2025 05:12:06.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [deardam: Teleported deardam to 262.500000, 63.500000, 4578.500000]
+[09May2025 05:12:13.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [deardam: Teleported deardam to 300.500000, 64.500000, 4529.500000]
+[09May2025 05:14:05.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [deardam: Teleported deardam to 300.500000, 64.500000, 4529.500000]
+[09May2025 05:14:10.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [deardam: Teleported deardam to 156.500000, 68.500000, 4885.500000]
+[09May2025 05:14:31.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [deardam: Teleported deardam to -202.500000, 104.500000, 2494.500000]
+[09May2025 05:14:42.276] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: deardam lost connection: Disconnected
+[09May2025 05:14:42.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: deardam left the game
+[09May2025 05:15:22.182] [ForkJoinPool.commonPool-worker-12/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[09May2025 05:15:22.230] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RIKROSEL[/127.135.253.57:56137] logged in with entity id 57865 at (-591.7161690085059, -48.82324072493576, 3219.801697069544)
+[09May2025 05:15:22.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIKROSEL joined the game
+[09May2025 05:17:54.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elielmvz has made the advancement [Ghost! Ghost! Toast?]
+[09May2025 05:18:29.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIKROSEL has made the advancement [Ghost! Ghost! Toast?]
+[09May2025 05:18:43.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Applied effect Saturation to 2 targets]
+[09May2025 05:22:16.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Applied effect Saturation to 2 targets]
+[09May2025 05:22:34.459] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL moved wrongly!
+[09May2025 05:22:34.958] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL moved wrongly!
+[09May2025 05:22:52.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Applied effect Saturation to 2 targets]
+[09May2025 05:22:54.009] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL moved wrongly!
+[09May2025 05:22:54.506] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL moved wrongly!
+[09May2025 05:22:55.010] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL moved wrongly!
+[09May2025 05:23:02.653] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL moved wrongly!
+[09May2025 05:23:03.157] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL moved wrongly!
+[09May2025 05:23:03.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elielmvz was slain by RIKROSEL.
+[09May2025 05:23:03.658] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL moved wrongly!
+[09May2025 05:23:09.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Teleported Elielmvz to RIKROSEL]

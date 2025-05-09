@@ -1908,6 +1908,7 @@
       "minecraft:skeleton": "2025-05-03 20:06:32 +0000",
       "minecraft:spider": "2025-05-03 19:36:14 +0000",
       "minecraft:creeper": "2025-05-04 20:49:12 +0000",
+      "minecraft:cave_spider": "2025-05-09 05:16:11 +0000",
       "minecraft:stray": "2025-05-03 20:11:14 +0000",
       "minecraft:zombie": "2025-05-03 20:06:50 +0000",
       "minecraft:drowned": "2025-05-05 03:40:53 +0000"
@@ -5346,9 +5347,21 @@
     },
     "done": true
   },
+  "dungeonnowloading:recipes/misc/spawner_frame": {
+    "criteria": {
+      "has_spawner_fragment": "2025-05-09 04:41:42 +0000"
+    },
+    "done": true
+  },
   "dungeonnowloading:story/labyrinth/obtain_chaotic_hexahedron": {
     "criteria": {
       "obtain_chaotic_hexahedron": "2025-05-09 04:41:45 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:recipes/combat/scepter_of_sealed_chaos": {
+    "criteria": {
+      "has_chaotic_hexahedron": "2025-05-09 04:41:45 +0000"
     },
     "done": true
   },
@@ -5358,21 +5371,15 @@
     },
     "done": true
   },
-  "dungeonnowloading:recipes/misc/spawner_frame": {
-    "criteria": {
-      "has_spawner_fragment": "2025-05-09 04:41:42 +0000"
-    },
-    "done": true
-  },
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "wheat": "2025-05-09 04:51:53 +0000"
     },
     "done": true
   },
-  "dungeonnowloading:recipes/combat/scepter_of_sealed_chaos": {
+  "alexsmobs:alexsmobs/ghostly_pickaxe": {
     "criteria": {
-      "has_chaotic_hexahedron": "2025-05-09 04:41:45 +0000"
+      "ghostly_pickaxe": "2025-05-09 05:18:29 +0000"
     },
     "done": true
   },
