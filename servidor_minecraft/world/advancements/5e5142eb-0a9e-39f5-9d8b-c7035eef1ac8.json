@@ -5427,6 +5427,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-05-09 04:27:52 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/get_rich_soil": {
     "criteria": {
       "get_rich_soil": "2025-05-09 03:22:49 +0000"
@@ -5481,9 +5487,33 @@
     },
     "done": true
   },
+  "dungeonnowloading:recipes/combat/life_stealer": {
+    "criteria": {
+      "has_spawner_blade": "2025-05-09 04:27:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bricks": {
     "criteria": {
       "has_brick": "2025-05-09 04:08:30 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:story/labyrinth/obtain_chaotic_hexahedron": {
+    "criteria": {
+      "obtain_chaotic_hexahedron": "2025-05-09 04:41:42 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:story/labyrinth/awaken_chaos_spawner": {
+    "criteria": {
+      "awaken_chaos_spawner": "2025-05-09 04:39:00 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:recipes/misc/skull_of_chaos": {
+    "criteria": {
+      "has_spawner_blade": "2025-05-09 04:27:09 +0000"
     },
     "done": true
   },
@@ -5511,9 +5541,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-05-09 04:27:52 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/skillet": {
     "criteria": {
       "has_brick": "2025-05-09 04:08:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-05-09 04:27:52 +0000"
     },
     "done": true
   },
@@ -5631,6 +5673,13 @@
     },
     "done": true
   },
+  "dungeonnowloading:recipes/combat/spawner_sword": {
+    "criteria": {
+      "has_spawner_blade": "2025-05-09 04:27:09 +0000",
+      "has_the_recipe": "2025-05-09 04:27:09 +0000"
+    },
+    "done": true
+  },
   "dungeonnowloading:story/labyrinth/find_labyrinth": {
     "criteria": {
       "find_labyrinth": "2025-05-09 04:06:40 +0000"
@@ -5712,6 +5761,12 @@
   "dungeonnowloading:recipes/combat/spawner_boots": {
     "criteria": {
       "has_spawner_frame": "2025-05-09 04:17:16 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:recipes/combat/scepter_of_sealed_chaos": {
+    "criteria": {
+      "has_chaotic_hexahedron": "2025-05-09 04:41:42 +0000"
     },
     "done": true
   },

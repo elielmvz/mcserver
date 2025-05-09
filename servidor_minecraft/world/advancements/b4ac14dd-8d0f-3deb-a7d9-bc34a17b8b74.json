@@ -4604,6 +4604,12 @@
     },
     "done": true
   },
+  "farm_and_charm:recipes/carrot_bag": {
+    "criteria": {
+      "has_carrot": "2025-05-09 04:32:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cracked_stone_bricks": {
     "criteria": {
       "has_stone_bricks": "2025-05-09 04:07:25 +0000"
@@ -4622,9 +4628,39 @@
     },
     "done": true
   },
+  "dungeonnowloading:recipes/combat/life_stealer": {
+    "criteria": {
+      "has_spawner_blade": "2025-05-09 04:26:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bricks": {
     "criteria": {
       "has_brick": "2025-05-09 04:15:16 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:story/labyrinth/obtain_chaotic_hexahedron": {
+    "criteria": {
+      "obtain_chaotic_hexahedron": "2025-05-09 04:41:38 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-09 04:32:18 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:recipes/misc/skull_of_chaos": {
+    "criteria": {
+      "has_spawner_blade": "2025-05-09 04:26:01 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-09 04:32:18 +0000"
     },
     "done": true
   },
@@ -4637,6 +4673,12 @@
   "minecraft:recipes/decorations/mossy_stone_brick_wall": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-05-09 04:07:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-05-09 04:32:48 +0000"
     },
     "done": true
   },
@@ -4730,6 +4772,13 @@
     },
     "done": true
   },
+  "dungeonnowloading:recipes/combat/spawner_sword": {
+    "criteria": {
+      "has_spawner_blade": "2025-05-09 04:26:01 +0000",
+      "has_the_recipe": "2025-05-09 04:26:01 +0000"
+    },
+    "done": true
+  },
   "dungeonnowloading:story/labyrinth/find_labyrinth": {
     "criteria": {
       "find_labyrinth": "2025-05-09 04:06:27 +0000"
@@ -4739,6 +4788,12 @@
   "celestisynth:recipes/combat/lunar_stone_helmet": {
     "criteria": {
       "has_item": "2025-05-09 03:39:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-05-09 04:32:18 +0000"
     },
     "done": true
   },
@@ -4823,6 +4878,12 @@
   "dungeonnowloading:recipes/combat/spawner_boots": {
     "criteria": {
       "has_spawner_frame": "2025-05-09 04:16:56 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:recipes/combat/scepter_of_sealed_chaos": {
+    "criteria": {
+      "has_chaotic_hexahedron": "2025-05-09 04:41:38 +0000"
     },
     "done": true
   },

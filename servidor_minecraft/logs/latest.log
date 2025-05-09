@@ -973,3 +973,45 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:color_essence'
 [09May2025 04:21:00.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: deardam has made the advancement [Sneak 100]
 [09May2025 04:21:29.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [deardam: Teleported deardam to -1558.500000, -53.500000, 2737.500000]
 [09May2025 04:22:42.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [deardam: Teleported deardam to -1383.500000, -59.500000, 2796.500000]
+[09May2025 04:23:35.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [deardam: Teleported deardam to Elielmvz]
+[09May2025 04:25:43.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [deardam: Teleported deardam to -1358.500000, -53.500000, 2796.500000]
+[09May2025 04:26:44.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [deardam: Teleported deardam to -1349.500000, -53.500000, 2768.500000]
+[09May2025 04:26:52.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [deardam: Teleported deardam to Elielmvz]
+[09May2025 04:27:56.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIKROSEL has made the advancement [Take Aim]
+[09May2025 04:28:58.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [deardam: Teleported deardam to -1455.500000, -53.500000, 2727.500000]
+[09May2025 04:29:09.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Teleported Elielmvz to deardam]
+[09May2025 04:29:11.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIKROSEL has made the advancement [Not Today, Thank You]
+[09May2025 04:29:32.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RIKROSEL: Teleported RIKROSEL to deardam]
+[09May2025 04:29:56.828] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIKROSEL lost connection: Disconnected
+[09May2025 04:29:56.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIKROSEL left the game
+[09May2025 04:29:56.883] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[09May2025 04:30:15.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [deardam: Teleported deardam to -409.500000, 17.500000, 2990.500000]
+[09May2025 04:30:34.891] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@375f4774[id=<null>,name=RIKROSEL,properties={},legacy=false] (/127.135.253.57:58707) lost connection: Disconnected
+[09May2025 04:30:44.831] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5ed03430[id=<null>,name=RIKROSEL,properties={},legacy=false] (/127.135.253.57:43089) lost connection: Disconnected
+[09May2025 04:30:47.636] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@764f2bdd[id=<null>,name=RIKROSEL,properties={},legacy=false] (/127.135.253.57:38361) lost connection: Disconnected
+[09May2025 04:30:53.086] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@20c80067[id=<null>,name=RIKROSEL,properties={},legacy=false] (/127.135.253.57:38323) lost connection: Disconnected
+[09May2025 04:30:55.731] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7242927c[id=<null>,name=RIKROSEL,properties={},legacy=false] (/127.135.253.57:59695) lost connection: Disconnected
+[09May2025 04:30:57.998] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1778f377[id=<null>,name=RIKROSEL,properties={},legacy=false] (/127.135.253.57:38799) lost connection: Disconnected
+[09May2025 04:31:00.038] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@23ff5524[id=<null>,name=RIKROSEL,properties={},legacy=false] (/127.135.253.57:38933) lost connection: Disconnected
+[09May2025 04:31:02.234] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4f3b1404[id=<null>,name=RIKROSEL,properties={},legacy=false] (/127.135.253.57:60911) lost connection: Disconnected
+[09May2025 04:31:04.184] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@561281a2[id=<null>,name=RIKROSEL,properties={},legacy=false] (/127.135.253.57:59439) lost connection: Disconnected
+[09May2025 04:31:09.929] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@45f535e3[id=<null>,name=RIKROSEL,properties={},legacy=false] (/127.135.253.57:45873) lost connection: Disconnected
+[09May2025 04:32:26.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [deardam: Teleported deardam to -202.500000, 104.500000, 2494.500000]
+[09May2025 04:32:31.155] [ForkJoinPool.commonPool-worker-8/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[09May2025 04:32:31.215] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RIKROSEL[/127.135.253.57:44051] logged in with entity id 39716 at (-1473.3031701060797, -54.0, 2704.5957253485867)
+[09May2025 04:32:31.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIKROSEL joined the game
+[09May2025 04:32:48.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: deardam has made the advancement [Enchanter]
+[09May2025 04:34:07.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [deardam: Teleported deardam to Elielmvz]
+[09May2025 04:35:52.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Teleported Elielmvz to -197.500000, 104.500000, 2502.500000]
+[09May2025 04:36:02.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Teleported Elielmvz to RIKROSEL]
+[09May2025 04:37:06.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Teleported Elielmvz to -197.500000, 104.500000, 2502.500000]
+[09May2025 04:37:21.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [deardam: Teleported deardam to -202.500000, 104.500000, 2494.500000]
+[09May2025 04:37:22.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Teleported Elielmvz to RIKROSEL]
+[09May2025 04:37:42.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [deardam: Teleported deardam to Elielmvz]
+[09May2025 04:38:07.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Teleported Elielmvz to -197.500000, 104.500000, 2502.500000]
+[09May2025 04:38:23.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elielmvz: Teleported Elielmvz to RIKROSEL]
+[09May2025 04:39:00.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elielmvz has made the advancement [Breaking the Seal]
+[09May2025 04:41:38.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: deardam has reached the goal [Chaos Spawner]
+[09May2025 04:41:42.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elielmvz has reached the goal [Chaos Spawner]
+[09May2025 04:41:45.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIKROSEL has reached the goal [Chaos Spawner]
+[09May2025 04:43:23.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [deardam: Teleported deardam to -202.500000, 104.500000, 2494.500000]
